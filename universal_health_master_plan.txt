@@ -1,0 +1,647 @@
+UNIVERSAL HEALTH MASTER PLAN
+Generated: 2026-03-21
+
+Purpose:
+- One consolidated category-based plan for building a universal health app
+- Based on:
+  - local workout APK analysis
+  - public research from large health apps
+  - safe product patterns, not proprietary copying
+
+Reference apps studied:
+- Samsung Health
+- Fitbit
+- Google Fit
+- Home Workout - No Equipment
+- MyFitnessPal
+- Flo Period & Pregnancy Tracker
+- Period Calendar Period Tracker
+
+============================================================
+CATEGORY 1: WORKOUTS
+============================================================
+
+Main reference apps:
+- Home Workout - No Equipment
+- Samsung Health
+- Fitbit
+- Google Fit
+
+What these apps do well:
+- guided workout plans
+- exercise-level instructions
+- progress tracking
+- daily goals
+- reminders
+- charts and history
+- wearable or device activity sync
+
+What the current workout APK contains:
+- 163 indexed workout actions
+- 163 action metadata files
+- 163 English action text files
+- 343 extended exercise coaching entries
+- 25 plan files
+- 15 progression or difficulty files
+
+Workout content model found in the APK:
+- exercise catalog
+- plan templates
+- exercise order
+- time or rep target
+- rest duration
+- target muscles
+- calories estimate
+- video URL
+- mistakes tips
+- breathing tips
+
+Major workout categories to build:
+- full body
+- abs
+- chest
+- arms
+- shoulders
+- legs
+- glutes
+- back
+- lower back
+- neck
+- stretching
+- warm-up
+- mobility
+
+Workout MVP features:
+- exercise library
+- exercise detail page
+- day plan screen
+- rest timer
+- completed / skipped states
+- workout history
+- basic streaks
+- reminders
+- weight or progress chart
+
+Workout advanced features:
+- custom plan builder
+- swap exercise inside plan
+- plan difficulty adaptation
+- body-part split plans
+- 28-day challenge plans
+- form coaching
+- equipment filters
+- recovery suggestions
+
+Workout data model:
+- exercise_id
+- name
+- intro
+- instructions
+- video_url
+- unit
+- default_duration_or_reps
+- rest_seconds
+- primary_muscles[]
+- secondary_muscles[]
+- calories_estimate
+- difficulty_level
+- mistakes_tips
+- breathing_tips
+- tags[]
+
+Plan data model:
+- plan_id
+- plan_name
+- category
+- level
+- duration_days
+- estimated_session_minutes
+- sessions[]
+
+Session data model:
+- day_number
+- title
+- exercise_items[]
+
+Exercise item data model:
+- action_id
+- order_index
+- target_value
+- unit
+- rest_seconds
+- exercise_type
+
+Key product lesson:
+- The winning idea is not the screen design.
+- The winning idea is a structured content engine plus habit loops.
+
+============================================================
+CATEGORY 2: FOOD AND NUTRITION
+============================================================
+
+Main reference apps:
+- MyFitnessPal
+- Samsung Health
+- Fitbit
+
+What these apps do well:
+- fast food logging
+- calorie tracking
+- macro tracking
+- water tracking
+- meal summaries
+- search and barcode flow
+- progress against goals
+
+Food MVP features:
+- food search
+- recent foods
+- favorite foods
+- barcode scan
+- meal logging
+- calorie total
+- protein, carbs, fat tracking
+- water tracker
+- daily summary
+
+Food advanced features:
+- recipe builder
+- meal planner
+- restaurant items
+- fasting mode
+- micronutrient breakdown
+- smart food suggestions
+- grocery planning
+
+Safe food data sources:
+- USDA FoodData Central
+- Open Food Facts as optional secondary source
+- your own cleaned canonical food layer
+
+Why this matters:
+- do not copy another app's private food database
+- use public, licensed, or open data only
+
+Food data model:
+- food_id
+- source
+- source_license
+- name
+- brand
+- barcode
+- serving_size
+- serving_unit
+- calories
+- protein
+- carbs
+- fat
+- fiber
+- sugar
+- sodium
+- locale
+- search_keywords[]
+
+Meal log data model:
+- meal_log_id
+- user_id
+- meal_type
+- date_time
+- food_id
+- servings
+- calories
+- protein
+- carbs
+- fat
+- notes
+
+Nutrition goals:
+- calories
+- protein
+- carbs
+- fat
+- fiber
+- water
+- weight target
+
+Key product lesson:
+- Food logging must be fast.
+- If search, recents, and barcode are weak, retention drops quickly.
+
+============================================================
+CATEGORY 3: PERIOD AND CYCLE TRACKING
+============================================================
+
+Main reference apps:
+- Flo
+- Period Calendar Period Tracker
+- Samsung Health
+
+What these apps do well:
+- cycle prediction
+- fertile window estimation
+- symptom tracking
+- mood tracking
+- reminders
+- privacy positioning
+- pregnancy support mode
+- educational content
+
+Period MVP features:
+- period start and end logging
+- cycle length tracking
+- flow logging
+- symptom tracking
+- mood tracking
+- notes
+- reminders
+- simple predictions
+
+Period advanced features:
+- fertility mode
+- ovulation test logging
+- basal temperature logging
+- partner mode
+- pregnancy mode
+- content library
+- perimenopause mode
+- privacy / anonymous mode
+
+Important rule:
+- do not try to extract or reuse private period datasets from other apps
+- use user-entered data and allowed platform sync only
+
+Cycle data model:
+- cycle_id
+- user_id
+- period_start
+- period_end
+- predicted_next_period
+- predicted_ovulation
+- cycle_length_days
+- period_length_days
+- flow_entries[]
+- symptoms[]
+- moods[]
+- temperature_entries[]
+- ovulation_test_entries[]
+- notes
+
+Flow entry:
+- date
+- flow_level
+
+Symptom entry:
+- date
+- symptom_code
+- intensity
+
+Mood entry:
+- date
+- mood_code
+
+Key product lesson:
+- Period tracking success depends on trust, privacy, reminders, and prediction clarity.
+
+============================================================
+CATEGORY 4: ACTIVITY, TRACKING, AND DEVICE SYNC
+============================================================
+
+Main reference apps:
+- Samsung Health
+- Fitbit
+- Google Fit
+
+What these apps do well:
+- step tracking
+- activity detection
+- workout sessions
+- wearable sync
+- sleep and heart metrics
+- dashboards and trend charts
+
+Core tracking categories:
+- steps
+- distance
+- calories burned
+- active minutes
+- exercise sessions
+- heart rate
+- sleep
+- weight
+- hydration
+- blood oxygen if supported
+- stress if supported
+
+Android platform direction:
+- Health Connect should be the main interoperability layer
+- Google is transitioning away from Google Fit APIs in 2026
+- Samsung Health syncs with Health Connect on supported versions
+
+Tracking MVP features:
+- steps
+- exercise sessions
+- weight
+- water
+- dashboard cards
+- weekly charts
+- Health Connect read / write where justified
+
+Tracking advanced features:
+- sleep analytics
+- resting heart rate trends
+- wearable sync enhancements
+- comparison charts
+- activity recommendations
+- automatic workout detection
+
+Tracking data model:
+- metric_id
+- user_id
+- source
+- source_device
+- metric_type
+- value
+- unit
+- start_time
+- end_time
+- metadata
+
+Session model:
+- session_id
+- user_id
+- workout_type
+- source
+- start_time
+- end_time
+- calories_burned
+- distance
+- average_heart_rate
+- notes
+
+Key product lesson:
+- Users want one dashboard, not disconnected trackers.
+
+============================================================
+CATEGORY 5: AI COACH AND INSIGHT LAYER
+============================================================
+
+Main reference direction:
+- None of the studied apps alone is enough here.
+- AI should sit on top of your own clean data model.
+
+Good AI use cases:
+- daily health summary
+- missed-goal explanation
+- next workout suggestion
+- meal suggestion based on macros
+- hydration nudges
+- cycle-aware workout or recovery suggestions
+- weekly progress summary
+- natural-language search across user history
+
+Do not do this:
+- disease diagnosis
+- clinical certainty claims
+- fertility or pregnancy certainty claims
+- medical advice without safeguards
+
+AI data needed:
+- profile
+- goals
+- workout history
+- food logs
+- water logs
+- cycle logs
+- body metrics
+- reminders
+- adherence patterns
+
+AI output categories:
+- motivation
+- explanation
+- recommendation
+- warning
+- summary
+
+Key product lesson:
+- AI should improve clarity and personalization, not pretend to be a doctor.
+
+============================================================
+CATEGORY 6: APP STRUCTURE
+============================================================
+
+Recommended module structure:
+- profile
+- dashboard
+- workouts
+- nutrition
+- cycle_tracking
+- activity_tracking
+- sleep
+- reminders
+- insights
+- coach_ai
+- settings
+
+Shared systems:
+- auth
+- onboarding
+- goal engine
+- notification engine
+- analytics
+- sync layer
+- privacy controls
+- subscription / monetization
+
+Dashboard sections:
+- today summary
+- goals progress
+- workout card
+- steps / activity card
+- water card
+- nutrition card
+- cycle card
+- sleep card
+- AI insight card
+
+============================================================
+CATEGORY 7: PRIORITY ROADMAP
+============================================================
+
+Phase 1:
+- profile
+- onboarding
+- dashboard
+- workout engine
+- exercise library
+- daily activity basics
+- reminders
+- basic charts
+
+Phase 2:
+- Health Connect integration
+- steps
+- exercise session sync
+- weight and hydration sync
+
+Phase 3:
+- nutrition logging
+- food search
+- barcode
+- macros
+- meal history
+
+Phase 4:
+- period tracking
+- symptoms
+- mood
+- reminders
+- privacy controls
+
+Phase 5:
+- AI insights
+- adaptive plans
+- food suggestions
+- cycle-aware coaching
+
+Phase 6:
+- sleep
+- heart metrics
+- advanced wearable features
+- premium coaching layer
+
+============================================================
+CATEGORY 8: FEATURE MATRIX BY APP
+============================================================
+
+Samsung Health:
+- dashboard
+- steps
+- workouts
+- meals
+- sleep
+- heart rate
+- stress
+- blood oxygen
+- cycle tracking
+- social challenges
+- wearable ecosystem
+
+Fitbit:
+- dashboard
+- steps
+- workouts
+- sleep
+- stress
+- nutrition
+- readiness / recovery style insights
+- wearable sync
+- content library
+
+Google Fit:
+- steps
+- Heart Points
+- exercise tracking
+- phone / watch sensing
+- app integrations
+- daily journal
+
+Home Workout:
+- bodyweight plans
+- 28-day routines
+- exercise guidance
+- progress records
+- weight chart
+- reminders
+- warm-up and stretching
+
+MyFitnessPal:
+- food database
+- calorie tracker
+- macro tracker
+- water tracker
+- goals
+- device sync
+- meal planning direction
+
+Flo:
+- period tracking
+- fertility
+- pregnancy mode
+- reminders
+- privacy mode
+- partner features
+- educational content
+
+Period Calendar:
+- period prediction
+- ovulation
+- flow logging
+- symptom and mood tracking
+- reminders
+- Wear OS support
+- encrypted backup
+- anonymous usage
+
+============================================================
+CATEGORY 9: WHAT TO BUILD FIRST FOR BEST MARKET FIT
+============================================================
+
+If you want a strong first release:
+- workout engine
+- dashboard
+- steps and activity tracking
+- water tracking
+- reminders
+- charts
+- Health Connect sync
+
+If you want the second strong layer:
+- food search and logging
+- calorie and macro goals
+
+If you want the third strong layer:
+- period tracking with privacy-first UX
+
+If you want long-term differentiation:
+- one unified AI coach using all modules together
+
+============================================================
+CATEGORY 10: LEGAL AND PRODUCT SAFETY
+============================================================
+
+Allowed direction:
+- study public app features
+- study screen flows
+- study category patterns
+- build your own schemas
+- use public and licensed datasets
+
+Do not do:
+- copy exact app UI 1:1
+- reuse proprietary text, assets, or private datasets
+- scrape or duplicate closed food or period databases
+- present AI as medical diagnosis
+
+============================================================
+FINAL RECOMMENDATION
+============================================================
+
+Best overall strategy:
+- Build one health app, not many disconnected mini apps.
+- Start with workouts plus basic tracking because that gives the fastest usable product.
+- Add food next because it expands daily engagement.
+- Add period tracking after the privacy model and data model are stable.
+- Add AI only after all core modules have clean structured data.
+
+Best core promise for the product:
+- one dashboard
+- one reminder system
+- one progress engine
+- one AI coach
+- many health categories under one system
+
+Related files in this folder:
+- workout_planner_extracted.txt
+- workout_planner_summary.txt
+- universal_health_research.md

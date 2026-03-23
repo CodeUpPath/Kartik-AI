@@ -1,0 +1,7248 @@
+[
+  {
+    "action_id": "0",
+    "name": "ABDOMINAL CRUNCHES",
+    "introduce": "Lie on your back with your knees bent and your arms stretched forward. \\n\\nThen lift your upper body off the floor. Hold for a few seconds and slowly return. \\n\\nIt primarily works the rectus abdominis muscle and the obliques.",
+    "videoUrl": "https://youtu.be/RUNrHkbP4Pc",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10",
+    "kaluli": "0.28",
+    "mankaluli": 0.68,
+    "womankaluli": 0.68,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "15"
+      ],
+      "musclepart_minor": [
+        "16"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/0/attrs/9/data/data",
+      "text_en": "assets/workout/actions/0/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "1",
+    "name": "LEG RAISES",
+    "introduce": "Lie down on your back, and put your hands beneath your hips for support. \\n\\nThen lift your legs up until they form a right angle with the floor. \\n\\nSlowly bring your legs back down and repeat the exercise.",
+    "videoUrl": "https://youtu.be/dGKbTKLnym4",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-2-14",
+    "kaluli": "0.28",
+    "mankaluli": 0.56,
+    "womankaluli": 0.56,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "8",
+        "9"
+      ],
+      "musclepart_major": [
+        "15"
+      ],
+      "musclepart_minor": [
+        "29",
+        "32"
+      ],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "11"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/1/attrs/7/data/data",
+      "text_en": "assets/workout/actions/1/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "2",
+    "name": "SIT-UPS",
+    "introduce": "Lie on your back with your hands behind your ears. \\n\\nThen lift your upper body off the floor and slowly up to the sitting position. Don\\'t tug your neck when you get up. \\n\\nSlowly go back to the start position and repeat the exercise.\\n\\nIf your spine hurts, please change to another workout.",
+    "videoUrl": "https://youtu.be/swOyWKk7Oko",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10",
+    "kaluli": "0.28",
+    "mankaluli": 0.56,
+    "womankaluli": 0.56,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "9"
+      ],
+      "musclepart_major": [
+        "15"
+      ],
+      "musclepart_minor": [
+        "16",
+        "32"
+      ],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "10"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/2/attrs/8/data/data",
+      "text_en": "assets/workout/actions/2/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "3",
+    "name": "PLANK",
+    "introduce": "Lie on the floor with your toes and forearms on the ground. Keep your body straight and hold this position as long as you can. \\n\\nDon't hold your breath. Breathe normally from your abdomen instead of your chest.\\n\\nThis exercise strengthens the abdomen, back and shoulders.",
+    "videoUrl": "https://youtu.be/Fcbw82ykBvY",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-6-25",
+    "kaluli": "0.28",
+    "mankaluli": 0.28,
+    "womankaluli": 0.28,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "7",
+        "8"
+      ],
+      "musclepart_major": [
+        "15"
+      ],
+      "musclepart_minor": [
+        "4",
+        "29",
+        "16"
+      ],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "8"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/3/attrs/8/data/data",
+      "text_en": "assets/workout/actions/3/text/9/data/en"
+    }
+  },
+  {
+    "action_id": "4",
+    "name": "REVERSE CRUNCHES",
+    "introduce": "Lie on your back with your knees up at a 90 degree angle and your hands behind your head. \\n\\nLift your upper body and thighs, and then stretch out. Repeat this exercise.",
+    "videoUrl": "https://youtu.be/UwRfRN5fYRg",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10",
+    "kaluli": "0.28",
+    "mankaluli": 0.68,
+    "womankaluli": 0.68,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "8",
+        "9"
+      ],
+      "musclepart_major": [
+        "15"
+      ],
+      "musclepart_minor": [
+        "16",
+        "29",
+        "32"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/4/attrs/7/data/data",
+      "text_en": "assets/workout/actions/4/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "7",
+    "name": "RUSSIAN TWIST",
+    "introduce": "Sit on the floor with your knees bent, feet lifted a little bit and back tilted backwards.\\n\\nThen hold your hands together and twist from side to side.",
+    "videoUrl": "https://youtu.be/DJQGX2J4IVw",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-11",
+    "kaluli": "0.28",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "43",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "16"
+      ],
+      "musclepart_minor": [
+        "15"
+      ],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "8",
+        "9"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/7/attrs/8/data/data",
+      "text_en": "assets/workout/actions/7/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "8",
+    "name": "BICYCLE CRUNCHES",
+    "introduce": "Lie on the floor with your hands behind your ears. Raise your knees and close your right elbow toward your left knee, then close your left elbow toward your right knee. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/-nJkAJpQemI",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-11",
+    "kaluli": "0.28",
+    "mankaluli": 0.68,
+    "womankaluli": 0.68,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "8",
+        "9"
+      ],
+      "musclepart_major": [
+        "15",
+        "16"
+      ],
+      "musclepart_minor": [
+        "29",
+        "32"
+      ],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "8",
+        "9"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/8/attrs/8/data/data",
+      "text_en": "assets/workout/actions/8/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "12",
+    "name": "MOUNTAIN CLIMBER",
+    "introduce": "Start in the push-up position. Bend your right knee towards your chest and keep your left leg straight, then quickly switch from one leg to the other. \\n\\nThis exercise strengthens multiple muscle groups.",
+    "videoUrl": "https://youtu.be/wQq3ybaLZeA",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 6,
+    "muscle": "0-10-2-14",
+    "kaluli": "0.42",
+    "mankaluli": 0.68,
+    "womankaluli": 0.68,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1",
+        "8",
+        "13",
+        "9",
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "15",
+        "29",
+        "32",
+        "12",
+        "35",
+        "36"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/12/attrs/8/data/data",
+      "text_en": "assets/workout/actions/12/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "15",
+    "name": "JUMPING JACKS",
+    "introduce": "Start with your feet together and your arms by your sides, then jump up with your feet apart and your hands overhead. \\n\\nReturn to the start position then do the next rep. This exercise provides a full-body workout and works all your large muscle groups.",
+    "videoUrl": "https://youtu.be/2W4ZNSwoW_4",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 6,
+    "muscle": "7",
+    "kaluli": "0.42",
+    "mankaluli": 0.48,
+    "womankaluli": 0.52,
+    "customfields": {
+      "type_tag": "45",
+      "muscle_major": [
+        "7",
+        "9",
+        "16"
+      ],
+      "muscle_minor": [
+        "8",
+        "11",
+        "6"
+      ],
+      "musclepart_major": [
+        "32",
+        "34",
+        "5"
+      ],
+      "musclepart_minor": [
+        "4",
+        "2",
+        "3",
+        "29",
+        "35",
+        "36"
+      ],
+      "work_part": [
+        "8"
+      ],
+      "muscle_tag": [
+        "29"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/15/attrs/8/data/data",
+      "text_en": "assets/workout/actions/15/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "17",
+    "name": "WALL PUSH-UPS",
+    "introduce": "Stand in front of a wall one big step away from it. Then put your hands out straight towards the wall and lean against it. Lift your heels.\\n\\nSlowly bend your elbows and press your upper body towards the wall. Push back and repeat the exercise. Remember to keep your body straight.",
+    "videoUrl": "https://youtu.be/EOf3cGIQpA4",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "3-4-12",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6"
+      ],
+      "muscle_minor": [
+        "3",
+        "7"
+      ],
+      "musclepart_major": [
+        "3"
+      ],
+      "musclepart_minor": [
+        "4",
+        "2",
+        "22"
+      ],
+      "work_part": [
+        "4"
+      ],
+      "muscle_tag": [
+        "14"
+      ],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/17/attrs/8/data/data",
+      "text_en": "assets/workout/actions/17/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "18",
+    "name": "TRICEPS DIPS",
+    "introduce": "For the start position, sit on the chair. Then move your hip off the chair with your hands holding the edge of the chair. \\n\\nSlowly bend and stretch your arms to make your body go up and down. This is a great exercise for the triceps.",
+    "videoUrl": "https://youtu.be/JhX1nBnirNw",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "3-4-12",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "14",
+      "muscle_major": [
+        "3"
+      ],
+      "muscle_minor": [
+        "6",
+        "7",
+        "2"
+      ],
+      "musclepart_major": [
+        "24",
+        "25"
+      ],
+      "musclepart_minor": [
+        "23",
+        "3",
+        "11",
+        "4"
+      ],
+      "work_part": [
+        "1"
+      ],
+      "muscle_tag": [
+        "20"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/18/attrs/8/data/data",
+      "text_en": "assets/workout/actions/18/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "20",
+    "name": "PUSH-UPS",
+    "introduce": "Lay prone on the ground with arms supporting your body. \\n\\nKeep your body straight while raising and lowering your body with your arms. \\n\\nThis exercise works the chest, shoulders, triceps, back and legs.",
+    "videoUrl": "https://youtu.be/R08gYyypGto",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 1,
+    "classid": 14,
+    "muscle": "3-4",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6"
+      ],
+      "muscle_minor": [
+        "3",
+        "7"
+      ],
+      "musclepart_major": [
+        "3"
+      ],
+      "musclepart_minor": [
+        "4",
+        "2",
+        "22"
+      ],
+      "work_part": [
+        "4",
+        "1"
+      ],
+      "muscle_tag": [
+        "13",
+        "20"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/20/attrs/8/data/data",
+      "text_en": "assets/workout/actions/20/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "21",
+    "name": "SQUATS",
+    "introduce": "Stand with your feet shoulder width apart and your arms stretched forward, then lower your body until your thighs are parallel with the floor. \\n\\nYour knees should be extended in the same direction as your toes. Return to the start position and do the next rep. \\n\\nThis works the thighs, hips buttocks, quads, hamstrings and lower body.",
+    "videoUrl": "https://youtu.be/42bFodPahBU",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "41",
+      "muscle_major": [
+        "8",
+        "9"
+      ],
+      "muscle_minor": [
+        "10",
+        "11"
+      ],
+      "musclepart_major": [
+        "29",
+        "32"
+      ],
+      "musclepart_minor": [
+        "33",
+        "36"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "3"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/21/attrs/8/data/data",
+      "text_en": "assets/workout/actions/21/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "22",
+    "name": "SIDE LUNGES",
+    "introduce": "Stand straight with your feet together. Move your right leg to the side, then lower your body while keeping your left leg straight. \\n\\nGo back to the start position and switch to the other side.",
+    "videoUrl": "https://youtu.be/tlUg1DXhHm8",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2-14-21",
+    "kaluli": "0.22",
+    "mankaluli": 0.88,
+    "womankaluli": 0.88,
+    "customfields": {
+      "type_tag": "25",
+      "muscle_major": [
+        "9",
+        "8"
+      ],
+      "muscle_minor": [
+        "10",
+        "11",
+        "13"
+      ],
+      "musclepart_major": [
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "musclepart_minor": [
+        "33",
+        "36",
+        "34"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "2",
+        "3",
+        "7"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/22/attrs/9/data/data",
+      "text_en": "assets/workout/actions/22/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "23",
+    "name": "PUSH-UP & ROTATION",
+    "introduce": "Start in the push-up position. Then go down for a push-up and as you come up, rotate your upper body and extend your right arm upwards. \\n\\nRepeat the exercise with the other arm. It\\'s a great exercise for the chest, shoulders, arms and core.",
+    "videoUrl": "https://youtu.be/Plv5CIclPtQ",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 14,
+    "muscle": "3-4",
+    "kaluli": "0.2",
+    "mankaluli": 1.6,
+    "womankaluli": 1.6,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6",
+        "1"
+      ],
+      "muscle_minor": [
+        "7",
+        "3",
+        "8"
+      ],
+      "musclepart_major": [
+        "2",
+        "3",
+        "16"
+      ],
+      "musclepart_minor": [
+        "15",
+        "4",
+        "22",
+        "29",
+        "30",
+        "31"
+      ],
+      "work_part": [
+        "4",
+        "1",
+        "2"
+      ],
+      "muscle_tag": [
+        "13",
+        "20",
+        "25"
+      ],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/23/attrs/9/data/data",
+      "text_en": "assets/workout/actions/23/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "24",
+    "name": "LUNGES",
+    "introduce": "Stand with your feet shoulder width apart and your hands on your hips. \\n\\nTake a step forward with your right leg and lower your body until your right thigh is parallel with the floor. \\n\\nThen return and switch to the other leg. This exercise strengthens the quadriceps, gluteus maximus and hamstrings.",
+    "videoUrl": "https://youtu.be/1J8mVmtyYpk",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2",
+    "kaluli": "0.22",
+    "mankaluli": 0.88,
+    "womankaluli": 0.88,
+    "customfields": {
+      "type_tag": "25",
+      "muscle_major": [
+        "8",
+        "9"
+      ],
+      "muscle_minor": [
+        "10",
+        "11"
+      ],
+      "musclepart_major": [
+        "29",
+        "32"
+      ],
+      "musclepart_minor": [
+        "33",
+        "36"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "3"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/24/attrs/8/data/data",
+      "text_en": "assets/workout/actions/24/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "25",
+    "name": "WIDE ARM PUSH-UPS",
+    "introduce": "Start in the regular push-up position but with your hands spread wider than your shoulders. \\n\\nThen push your body up and down. Remember to keep your body straight.",
+    "videoUrl": "https://youtu.be/pQUsUHvyoI0",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "3-4-12",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.8,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6"
+      ],
+      "muscle_minor": [
+        "3",
+        "7"
+      ],
+      "musclepart_major": [
+        "3"
+      ],
+      "musclepart_minor": [
+        "4",
+        "2",
+        "22"
+      ],
+      "work_part": [
+        "4"
+      ],
+      "muscle_tag": [
+        "13"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/25/attrs/7/data/data",
+      "text_en": "assets/workout/actions/25/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "26",
+    "name": "BURPEES",
+    "introduce": "Stand with your feet shoulder width apart, then put your hands on the ground and kick your feet backward. Do a quick push-up and then jump up.",
+    "videoUrl": "https://youtu.be/818SkLAPyKY",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 6,
+    "muscle": "3-4-12-7",
+    "kaluli": "0.42",
+    "mankaluli": 1.47,
+    "womankaluli": 1.47,
+    "customfields": {
+      "type_tag": "29",
+      "muscle_major": [
+        "6",
+        "1",
+        "8",
+        "9",
+        "10"
+      ],
+      "muscle_minor": [
+        "7",
+        "3",
+        "11"
+      ],
+      "musclepart_major": [
+        "2",
+        "3",
+        "15",
+        "29",
+        "32",
+        "33"
+      ],
+      "musclepart_minor": [
+        "4",
+        "5",
+        "22",
+        "35",
+        "36"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/26/attrs/7/data/data",
+      "text_en": "assets/workout/actions/26/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "27",
+    "name": "CURTSY LUNGES",
+    "introduce": "Stand straight up. Then step back with your left leg to the right, and bend your knees at the same time. \\n\\nGo back to the start position and switch to the other side.",
+    "videoUrl": "https://youtu.be/-rTyKlHjYT8",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2",
+    "kaluli": "0.22",
+    "mankaluli": 1.1,
+    "womankaluli": 1.1,
+    "customfields": {
+      "type_tag": "25",
+      "muscle_major": [
+        "9",
+        "8",
+        "16"
+      ],
+      "muscle_minor": [
+        "10",
+        "11"
+      ],
+      "musclepart_major": [
+        "29",
+        "32",
+        "34"
+      ],
+      "musclepart_minor": [
+        "30",
+        "31",
+        "33",
+        "35",
+        "36"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/27/attrs/9/data/data",
+      "text_en": "assets/workout/actions/27/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "28",
+    "name": "INCLINE PUSH-UPS",
+    "introduce": "Start in the regular push-up position but with your hands elevated on a chair or bench. \\n\\nThen push your body up down using your arm strength. \\n\\nRemember to keep your body straight.",
+    "videoUrl": "https://youtu.be/3WUUeM07i_Q",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 14,
+    "muscle": "3-4-12",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6"
+      ],
+      "muscle_minor": [
+        "7",
+        "3"
+      ],
+      "musclepart_major": [
+        "3"
+      ],
+      "musclepart_minor": [
+        "2",
+        "4",
+        "22"
+      ],
+      "work_part": [
+        "4"
+      ],
+      "muscle_tag": [
+        "14"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/28/attrs/8/data/data",
+      "text_en": "assets/workout/actions/28/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "29",
+    "name": "SIDE PLANK RIGHT",
+    "introduce": "Lie on your right side with your forearm supporting your body. Hold your body in a straight line. \\n\\nThis exercise targets the abdominal muscles and obliques.",
+    "videoUrl": "https://youtu.be/2W96p2PIoPg",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-6",
+    "kaluli": "0.28",
+    "mankaluli": 0.28,
+    "womankaluli": 0.28,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "16"
+      ],
+      "musclepart_minor": [],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "9"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/29/attrs/8/data/data",
+      "text_en": "assets/workout/actions/29/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "30",
+    "name": "DIAMOND PUSH-UPS",
+    "introduce": "Start in the push-up position. Make a diamond shape with your forefingers and thumbs together under your chest. \\n\\nThen push your body up and down. Remember to keep your body straight.",
+    "videoUrl": "https://youtu.be/UCmqw3kKZ38",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 14,
+    "muscle": "3-4-12",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6",
+        "3"
+      ],
+      "muscle_minor": [
+        "7"
+      ],
+      "musclepart_major": [
+        "3",
+        "22"
+      ],
+      "musclepart_minor": [
+        "2",
+        "4"
+      ],
+      "work_part": [
+        "4",
+        "1"
+      ],
+      "muscle_tag": [
+        "13",
+        "20"
+      ],
+      "classic": 2,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/30/attrs/7/data/data",
+      "text_en": "assets/workout/actions/30/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "31",
+    "name": "SPLIT SQUAT RIGHT",
+    "introduce": "Take a big step forward with your right leg and keep your upper body straight. \\n\\nThen make your body go straight down and up.",
+    "videoUrl": "https://youtu.be/SFSZVKzqnXA",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "25",
+      "muscle_major": [
+        "8",
+        "9"
+      ],
+      "muscle_minor": [
+        "10",
+        "11"
+      ],
+      "musclepart_major": [
+        "29",
+        "32"
+      ],
+      "musclepart_minor": [
+        "33",
+        "36"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "3"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/31/attrs/8/data/data",
+      "text_en": "assets/workout/actions/31/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "32",
+    "name": "SPLIT SQUAT LEFT",
+    "introduce": "Take a big step forward with your left leg and keep your upper body straight. \\n\\nThen make your body go straight down and up.",
+    "videoUrl": "https://youtu.be/SFSZVKzqnXA",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "25",
+      "muscle_major": [
+        "8",
+        "9"
+      ],
+      "muscle_minor": [
+        "10",
+        "11"
+      ],
+      "musclepart_major": [
+        "29",
+        "32"
+      ],
+      "musclepart_minor": [
+        "33",
+        "36"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "3"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/32/attrs/8/data/data",
+      "text_en": "assets/workout/actions/32/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "33",
+    "name": "HIGH STEPPING",
+    "introduce": "Run in place while pulling your knees as high as possible with each step. \\n\\nKeep your upper body upright during this exercise.",
+    "videoUrl": "https://youtu.be/Cmxr9xcNhgU",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 6,
+    "muscle": "1-2",
+    "kaluli": "0.42",
+    "mankaluli": 0.52,
+    "womankaluli": 0.52,
+    "customfields": {
+      "type_tag": "45",
+      "muscle_major": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "muscle_minor": [
+        "7",
+        "2",
+        "6"
+      ],
+      "musclepart_major": [
+        "29",
+        "32",
+        "33",
+        "35",
+        "36"
+      ],
+      "musclepart_minor": [
+        "5",
+        "4",
+        "13",
+        "11",
+        "17",
+        "2"
+      ],
+      "work_part": [
+        "8"
+      ],
+      "muscle_tag": [
+        "29"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/33/attrs/8/data/data",
+      "text_en": "assets/workout/actions/33/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "34",
+    "name": "KNEE PUSH-UPS",
+    "introduce": "Start in the regular push-up position, then let your knees touch the floor and raise your feet up off the floor. \\n\\nNext push your body up and down.",
+    "videoUrl": "https://youtu.be/jWxvty2KROs",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 14,
+    "muscle": "3-4",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6"
+      ],
+      "muscle_minor": [
+        "3",
+        "7"
+      ],
+      "musclepart_major": [
+        "3"
+      ],
+      "musclepart_minor": [
+        "2",
+        "4",
+        "22"
+      ],
+      "work_part": [
+        "4"
+      ],
+      "muscle_tag": [
+        "13"
+      ],
+      "classic": 2,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/34/attrs/8/data/data",
+      "text_en": "assets/workout/actions/34/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "35",
+    "name": "SIDE PLANK LEFT",
+    "introduce": "Lie on your left side with your forearm supporting your body. Hold your body in a straight line. \\n\\nThis exercise targets the abdominal muscles and obliques.",
+    "videoUrl": "https://youtu.be/2W96p2PIoPg",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-6-25",
+    "kaluli": "0.28",
+    "mankaluli": 0.28,
+    "womankaluli": 0.28,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "16"
+      ],
+      "musclepart_minor": [],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "9"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/35/attrs/8/data/data",
+      "text_en": "assets/workout/actions/35/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "36",
+    "name": "WALL SIT",
+    "introduce": "Start with your back against the wall, then slide down until your knees are at a 90 degree angle. \\n\\nKeep your back against the wall with your hands and arms away from your legs. Hold the position. \\n\\nThe exercise is to strengthen the quadriceps muscles.",
+    "videoUrl": "https://youtu.be/Yp3ZwACK9v4",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 11,
+    "muscle": "1-2-14",
+    "kaluli": "0.22",
+    "mankaluli": 0.22,
+    "womankaluli": 0.22,
+    "customfields": {
+      "type_tag": "41",
+      "muscle_major": [
+        "8",
+        "9"
+      ],
+      "muscle_minor": [
+        "10",
+        "11"
+      ],
+      "musclepart_major": [
+        "29",
+        "32"
+      ],
+      "musclepart_minor": [
+        "33",
+        "36"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/36/attrs/6/data/data",
+      "text_en": "assets/workout/actions/36/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "39",
+    "name": "DECLINE PUSH-UPS",
+    "introduce": "Start on all fours with your knees under your butt and your hands under your shoulders. \\n\\nThen elevate your feet on a chair or bench, and push your body up and down mainly using your arm strength. \\n\\nRemember to keep your body straight.",
+    "videoUrl": "https://youtu.be/OjPfLfLsw3c",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "3-4",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6"
+      ],
+      "muscle_minor": [
+        "7",
+        "3"
+      ],
+      "musclepart_major": [
+        "2"
+      ],
+      "musclepart_minor": [
+        "3",
+        "4",
+        "22"
+      ],
+      "work_part": [
+        "4"
+      ],
+      "muscle_tag": [
+        "12"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/39/attrs/7/data/data",
+      "text_en": "assets/workout/actions/39/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "40",
+    "name": "JUMPING SQUATS",
+    "introduce": "Start in the squat position, then jump up using your abdominal muscles for strength. This exercise works your abdomen.",
+    "videoUrl": "https://youtu.be/txLE-jOCEsc",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 6,
+    "muscle": "1-2",
+    "kaluli": "0.42",
+    "mankaluli": 0.34,
+    "womankaluli": 0.42,
+    "customfields": {
+      "type_tag": "29",
+      "muscle_major": [
+        "8",
+        "9"
+      ],
+      "muscle_minor": [
+        "10",
+        "11"
+      ],
+      "musclepart_major": [
+        "29",
+        "32"
+      ],
+      "musclepart_minor": [
+        "33",
+        "36"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "3",
+        "4"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/40/attrs/9/data/data",
+      "text_en": "assets/workout/actions/40/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "42",
+    "name": "STAGGERED PUSH-UPS",
+    "introduce": "Start in the regular push-up position, but with one hand in front of the other. \\n\\nThen do a push-up and switch the other hand in front. \\n\\nRemember to keep your body straight.",
+    "videoUrl": "https://youtu.be/JWNTTiAQMhc",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 14,
+    "muscle": "3-4-16",
+    "kaluli": "0.2",
+    "mankaluli": 2,
+    "womankaluli": 2.4,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6",
+        "3"
+      ],
+      "muscle_minor": [
+        "7"
+      ],
+      "musclepart_major": [
+        "2",
+        "3",
+        "22"
+      ],
+      "musclepart_minor": [
+        "4"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/42/attrs/5/data/data",
+      "text_en": "assets/workout/actions/42/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "43",
+    "name": "BACKWARD LUNGE WITH FRONT KICK RIGHT",
+    "introduce": "Stand straight up. Then step back with your right leg and lower your body. When you come up, kick your right leg upward. \\n\\nGo back to the start position, and repeat the exercise.",
+    "videoUrl": "https://youtu.be/g7pZDrp0IdU",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 12,
+    "muscle": "1-2-14",
+    "kaluli": "0.22",
+    "mankaluli": 0.56,
+    "womankaluli": 0.14,
+    "customfields": {
+      "type_tag": "25",
+      "muscle_major": [
+        "8",
+        "9"
+      ],
+      "muscle_minor": [
+        "10",
+        "11",
+        "13"
+      ],
+      "musclepart_major": [
+        "29",
+        "32"
+      ],
+      "musclepart_minor": [
+        "36",
+        "33",
+        "34"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/43/attrs/5/data/data",
+      "text_en": "assets/workout/actions/43/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "44",
+    "name": "BACKWARD LUNGE WITH FRONT KICK LEFT",
+    "introduce": "Stand straight up. Then step back with your left leg and lower your body. When you come up, kick your left leg upward. \\n\\nGo back to the start position, and repeat the exercise.",
+    "videoUrl": "https://youtu.be/g7pZDrp0IdU",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 12,
+    "muscle": "1-2-14",
+    "kaluli": "0.22",
+    "mankaluli": 0.56,
+    "womankaluli": 0.14,
+    "customfields": {
+      "type_tag": "25",
+      "muscle_major": [
+        "8",
+        "9"
+      ],
+      "muscle_minor": [
+        "10",
+        "11",
+        "13"
+      ],
+      "musclepart_major": [
+        "29",
+        "32"
+      ],
+      "musclepart_minor": [
+        "36",
+        "33",
+        "34"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/44/attrs/5/data/data",
+      "text_en": "assets/workout/actions/44/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "45",
+    "name": "SPIDERMAN PUSH-UPS",
+    "introduce": "Start in the regular push-up position. When lowering your torso downward, bend and lift one leg to the side. \\n\\nThen return to the start position and switch to the other leg. \\n\\nRemember to keep your body straight.",
+    "videoUrl": "https://youtu.be/YmonBKorAIw",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 14,
+    "muscle": "1-2-14-3-4",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6",
+        "8",
+        "1"
+      ],
+      "muscle_minor": [
+        "3",
+        "7"
+      ],
+      "musclepart_major": [
+        "2",
+        "3",
+        "30",
+        "31",
+        "15",
+        "16"
+      ],
+      "musclepart_minor": [
+        "4",
+        "22"
+      ],
+      "work_part": [
+        "4",
+        "6"
+      ],
+      "muscle_tag": [
+        "13",
+        "20"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/45/attrs/7/data/data",
+      "text_en": "assets/workout/actions/45/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "46",
+    "name": "HINDU PUSH-UPS",
+    "introduce": "Start with your hands and feet touching the floor, body bent and butt up in an upside down \\'V\\' shape.\\n\\nThen bend your elbows to bring your body towards the floor. \\n\\nWhen your body is close to the floor, raise your upper body up as far as possible. Then return to the original position and repeat.",
+    "videoUrl": "https://youtu.be/HE0ijmUc6Og",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "4",
+    "etype": 1,
+    "strength": 2,
+    "classid": 14,
+    "muscle": "3-4",
+    "kaluli": "0.2",
+    "mankaluli": 0.56,
+    "womankaluli": 0.28,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "13",
+        "6",
+        "3",
+        "8"
+      ],
+      "muscle_minor": [
+        "10",
+        "11",
+        "7"
+      ],
+      "musclepart_major": [
+        "12",
+        "29",
+        "2",
+        "3",
+        "22"
+      ],
+      "musclepart_minor": [
+        "4",
+        "33",
+        "35",
+        "36"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/46/attrs/5/data/data",
+      "text_en": "assets/workout/actions/46/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "47",
+    "name": "DONKEY KICKS RIGHT",
+    "introduce": "Start on all fours with your knees under butt and your hands under shoulders. \\n\\nThen lift your right leg and squeeze your butt as much as you can. Go back to the start position and repeat the exercise.",
+    "videoUrl": "https://youtu.be/4ranVQDqlaU",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "20",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "29"
+      ],
+      "musclepart_minor": [],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "5"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/47/attrs/7/data/data",
+      "text_en": "assets/workout/actions/47/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "48",
+    "name": "BUTT BRIDGE",
+    "introduce": "Lie on your back with knees bent and feet flat on the floor. Put your arms flat at your sides. \\n\\nThen lift your butt up and down.",
+    "videoUrl": "https://youtu.be/9qo48CYN06w",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1",
+    "kaluli": "0.22",
+    "mankaluli": 0.52,
+    "womankaluli": 0.52,
+    "customfields": {
+      "type_tag": "20",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [
+        "10"
+      ],
+      "musclepart_major": [
+        "29"
+      ],
+      "musclepart_minor": [
+        "33"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "5"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/48/attrs/9/data/data",
+      "text_en": "assets/workout/actions/48/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "49",
+    "name": "DONKEY KICKS LEFT",
+    "introduce": "Start on all fours with your knees under your butt and your hands under your shoulders. \\n\\nThen lift your left leg and squeeze your butt as much as you can. Go back to the start position and repeat the exercise.",
+    "videoUrl": "https://youtu.be/4ranVQDqlaU",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "20",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "29"
+      ],
+      "musclepart_minor": [],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "5"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/49/attrs/9/data/data",
+      "text_en": "assets/workout/actions/49/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "50",
+    "name": "FIRE HYDRANT RIGHT",
+    "introduce": "Start on all fours with your knees under your butt and your hands under your shoulders. \\n\\nThen lift your right leg to the side at a 90 degree angle.",
+    "videoUrl": "https://youtu.be/7LnuhLi-78I",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "1",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "30",
+        "31"
+      ],
+      "musclepart_minor": [],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "2",
+        "7"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/50/attrs/7/data/data",
+      "text_en": "assets/workout/actions/50/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "51",
+    "name": "FIRE HYDRANT LEFT",
+    "introduce": "Start on all fours with your knees under your butt and your hands under your shoulders. \\n\\nThen lift your left leg to the side at a 90 degree angle.",
+    "videoUrl": "https://youtu.be/7LnuhLi-78I",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "1",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "30",
+        "31"
+      ],
+      "musclepart_minor": [],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "2",
+        "7"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/51/attrs/7/data/data",
+      "text_en": "assets/workout/actions/51/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "52",
+    "name": "FROGGY GLUTE LIFTS",
+    "introduce": "Lie on your stomach with your knees bent and heels squeezed together.\\n\\nThen lift your feet up and down. The exercise is very effective at squeezing your butt.",
+    "videoUrl": "https://youtu.be/wl10q6aqy-4",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "20",
+      "muscle_major": [
+        "8",
+        "10"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "29",
+        "30",
+        "31",
+        "33"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/52/attrs/6/data/data",
+      "text_en": "assets/workout/actions/52/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "53",
+    "name": "REVERSE FLUTTER KICKS",
+    "introduce": "Lie face down on a bench, place your butt on the edge of the bench and hold on to the sides. \\n\\nThen lift your legs until they are level with your upper body. \\n\\nLift one leg higher than the other, then switch to the other leg and repeat.",
+    "videoUrl": "https://youtu.be/UsO66ZUvzb0",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 11,
+    "muscle": "1-2",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "20",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [
+        "10"
+      ],
+      "musclepart_major": [
+        "29"
+      ],
+      "musclepart_minor": [
+        "33"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "5"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/53/attrs/8/data/data",
+      "text_en": "assets/workout/actions/53/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "55",
+    "name": "PLIE SQUATS",
+    "introduce": "Stand with your hands on your hips and feet a little wider than shoulder width apart.\\n\\nThen lower your body until your thighs are parallel to the floor. \\n\\nYour knees should be extended in the same direction as your tiptoes.",
+    "videoUrl": "https://youtu.be/XEKiRnwBfYA",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "41",
+      "muscle_major": [
+        "8",
+        "9"
+      ],
+      "muscle_minor": [
+        "13",
+        "10",
+        "11"
+      ],
+      "musclepart_major": [
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "musclepart_minor": [
+        "34",
+        "33",
+        "35",
+        "36"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "3",
+        "6"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/55/attrs/7/data/data",
+      "text_en": "assets/workout/actions/55/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "61",
+    "name": "ARM CIRCLES",
+    "introduce": "Stand on the floor with your arms extended straight out to the sides at shoulder height. \\n\\nMove your arms forward in circles, and then move backwards.",
+    "videoUrl": "https://youtu.be/h6GkzSA5tTc",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 7,
+    "muscle": "4-16",
+    "kaluli": "0.22",
+    "mankaluli": 1.4,
+    "womankaluli": 1.38,
+    "customfields": {
+      "type_tag": "45",
+      "muscle_major": [
+        "7"
+      ],
+      "muscle_minor": [
+        "4"
+      ],
+      "musclepart_major": [
+        "4",
+        "5",
+        "6"
+      ],
+      "musclepart_minor": [
+        "18",
+        "17"
+      ],
+      "work_part": [
+        "2"
+      ],
+      "muscle_tag": [
+        "25",
+        "26",
+        "27"
+      ],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/61/attrs/7/data/data",
+      "text_en": "assets/workout/actions/61/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "62",
+    "name": "PUNCHES",
+    "introduce": "Stand with one of your legs forward and your knees bent slightly. Bend your elbows and clench your fists in front of your face.\\n\\nExtend one arm forward with the palm facing the floor. Take the arm back and repeat with the other arm.",
+    "videoUrl": "https://youtu.be/reeBHtZJ1ts",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 7,
+    "muscle": "3-4",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "45",
+      "muscle_major": [
+        "7",
+        "3",
+        "6"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "22"
+      ],
+      "musclepart_minor": [
+        "17"
+      ],
+      "work_part": [
+        "1",
+        "2"
+      ],
+      "muscle_tag": [
+        "25",
+        "20"
+      ],
+      "classic": 2,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/62/attrs/8/data/data",
+      "text_en": "assets/workout/actions/62/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "63",
+    "name": "FLOOR TRICEP DIPS",
+    "introduce": "Sit on the floor with your knees bent and feet flat on the floor. Put your hands beneath your shoulders with your fingers pointing toward your hips.\\n\\nLift your hips off the floor. Then bend and extend your elbows to lower and lift your hips.\\n\\nRepeat the exercise to strengthen your upper arms.",
+    "videoUrl": "https://youtu.be/geNkbcZ6qDo",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "3-4",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "14",
+      "muscle_major": [
+        "3"
+      ],
+      "muscle_minor": [
+        "6",
+        "7",
+        "2"
+      ],
+      "musclepart_major": [
+        "24",
+        "25"
+      ],
+      "musclepart_minor": [
+        "23",
+        "3",
+        "11",
+        "4"
+      ],
+      "work_part": [
+        "1"
+      ],
+      "muscle_tag": [
+        "20"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/63/attrs/7/data/data",
+      "text_en": "assets/workout/actions/63/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "64",
+    "name": "ARM RAISES",
+    "introduce": "Stand on the floor with your arms extended straight forward at shoulder height. \\n\\nExhale, raise your arms above your head. Inhale, return to the start position and repeat.",
+    "videoUrl": "https://youtu.be/Bqvmyni_sKQ",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 7,
+    "muscle": "4-16-18",
+    "kaluli": "0.22",
+    "mankaluli": 0.48,
+    "womankaluli": 0.48,
+    "customfields": {
+      "type_tag": "17",
+      "muscle_major": [
+        "7"
+      ],
+      "muscle_minor": [
+        "6"
+      ],
+      "musclepart_major": [
+        "4"
+      ],
+      "musclepart_minor": [
+        "5",
+        "2",
+        "17"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/64/attrs/6/data/data",
+      "text_en": "assets/workout/actions/64/text/4/data/en"
+    }
+  },
+  {
+    "action_id": "65",
+    "name": "CHEST PRESS PULSE",
+    "introduce": "Hold your forearms together at shoulder height and bend your elbows with your hands together to make an \\'L\\' shape.\\n\\nThen lift your forearms up and down.",
+    "videoUrl": "https://youtu.be/Fz4oo1vFo9M",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 13,
+    "muscle": "3-4-16",
+    "kaluli": "0.2",
+    "mankaluli": 0.2,
+    "womankaluli": 0.2,
+    "customfields": {
+      "type_tag": "49",
+      "muscle_major": [
+        "6",
+        "7"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "2",
+        "3",
+        "4"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/65/attrs/5/data/data",
+      "text_en": "assets/workout/actions/65/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "66",
+    "name": "DIAGONAL PLANK",
+    "introduce": "Start in the straight arm plank position.\\n\\nLift your right arm and left leg until they are parallel with the ground.\\n\\nReturn to the start position and repeat with the other side.",
+    "videoUrl": "https://youtu.be/OGfFtF-dhrk",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 10,
+    "muscle": "0-10-6",
+    "kaluli": "0.28",
+    "mankaluli": 1.12,
+    "womankaluli": 1.12,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1",
+        "8"
+      ],
+      "muscle_minor": [
+        "9",
+        "10",
+        "2"
+      ],
+      "musclepart_major": [
+        "15",
+        "29"
+      ],
+      "musclepart_minor": [
+        "16",
+        "32",
+        "33",
+        "11",
+        "17"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/66/attrs/5/data/data",
+      "text_en": "assets/workout/actions/66/text/6/data/en"
+    }
+  },
+  {
+    "action_id": "67",
+    "name": "REVERSE PUSH-UPS",
+    "introduce": "Start in the regular push-up position. \\n\\nLower your body down, then bend your knees and move your hips backward with your arms straight. \\n\\nGo back to the push-up position and repeat.",
+    "videoUrl": "https://youtu.be/XRpbVcpx-Yc",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 14,
+    "muscle": "3-4",
+    "kaluli": "0.2",
+    "mankaluli": 0.6,
+    "womankaluli": 0.6,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6",
+        "2"
+      ],
+      "muscle_minor": [
+        "7",
+        "12",
+        "4",
+        "5"
+      ],
+      "musclepart_major": [
+        "2",
+        "3",
+        "11"
+      ],
+      "musclepart_minor": [
+        "6",
+        "13",
+        "7",
+        "9",
+        "10",
+        "14",
+        "18",
+        "28",
+        "17"
+      ],
+      "work_part": [
+        "4",
+        "3"
+      ],
+      "muscle_tag": [
+        "17",
+        "13"
+      ],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/67/attrs/7/data/data",
+      "text_en": "assets/workout/actions/67/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "69",
+    "name": "BOX PUSH-UPS",
+    "introduce": "Start on all fours with your knees under your butt and your hands directly under your shoulders. \\n\\nBend your elbows and do a push-up. Return to the start position and repeat.",
+    "videoUrl": "https://youtu.be/dcJVA2sBPqw",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "3-4",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6"
+      ],
+      "muscle_minor": [
+        "3",
+        "7"
+      ],
+      "musclepart_major": [
+        "3"
+      ],
+      "musclepart_minor": [
+        "4",
+        "2",
+        "22"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/69/attrs/5/data/data",
+      "text_en": "assets/workout/actions/69/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "70",
+    "name": "SIDE-LYING LEG LIFT RIGHT",
+    "introduce": "Lie down on your side with your head rested on your left arm. Lift your upper leg up and return to the start position.\\n\\nMake sure your right leg goes straight up and down during the exercise. It\\'s a great exercise for the gluteus.",
+    "videoUrl": "https://youtu.be/VlwBJE1WtOQ",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 12,
+    "muscle": "1-2-14",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "1",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [
+        "13"
+      ],
+      "musclepart_major": [
+        "30",
+        "31"
+      ],
+      "musclepart_minor": [
+        "34"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/70/attrs/7/data/data",
+      "text_en": "assets/workout/actions/70/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "73",
+    "name": "SINGLE RIGHT LEG CALF RAISES",
+    "introduce": "Stand with arms against a wall. Put your left foot on your right ankle, then lift your right heel up and down.",
+    "videoUrl": "https://youtu.be/xVb3rW0a7Fw",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 12,
+    "muscle": "2-15",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "7",
+      "muscle_major": [
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "35"
+      ],
+      "musclepart_minor": [
+        "36"
+      ],
+      "work_part": [
+        "7"
+      ],
+      "muscle_tag": [
+        "4"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/73/attrs/7/data/data",
+      "text_en": "assets/workout/actions/73/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "74",
+    "name": "SINGLE LEFT LEG CALF RAISES",
+    "introduce": "Stand with arms against a wall. Put your right foot on your left ankle, then lift your left heel up and down.",
+    "videoUrl": "https://youtu.be/xVb3rW0a7Fw",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 12,
+    "muscle": "2-15",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "7",
+      "muscle_major": [
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "35"
+      ],
+      "musclepart_minor": [
+        "36"
+      ],
+      "work_part": [
+        "7"
+      ],
+      "muscle_tag": [
+        "4"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/74/attrs/7/data/data",
+      "text_en": "assets/workout/actions/74/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "75",
+    "name": "BULGARIAN SPLIT SQUAT LEFT",
+    "introduce": "Stand several feet away from a bench. Rest your left foot on the bench behind you. \\n\\nLower your body until your back knee nearly touches the floor and your front thigh is parallel to the floor. \\n\\nThen go back to the start position and repeat the exercise. \\n\\nThere should be enough space between your front foot and the bench so that your front knee does not go over your toes. Keep your upper body straight.\\n\\nIt\\'s a great exercise for the gluteus and hamstrings.",
+    "videoUrl": "https://youtu.be/Brh1SHAkknI",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 11,
+    "muscle": "1-2",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "25",
+      "muscle_major": [
+        "8",
+        "9"
+      ],
+      "muscle_minor": [
+        "10",
+        "11"
+      ],
+      "musclepart_major": [
+        "29",
+        "32"
+      ],
+      "musclepart_minor": [
+        "33",
+        "36"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "3"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/75/attrs/7/data/data",
+      "text_en": "assets/workout/actions/75/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "76",
+    "name": "BOTTOM LEG LIFT RIGHT",
+    "introduce": "Lie on your right side with head resting on your right hand. \\n\\nThen put your left foot forward on the floor. Lift your right leg up and down.",
+    "videoUrl": "https://youtu.be/Dm1GSX1vItY",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 12,
+    "muscle": "1-2-21",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "2",
+      "muscle_major": [
+        "16"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "34"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/76/attrs/5/data/data",
+      "text_en": "assets/workout/actions/76/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "78",
+    "name": "BOTTOM LEG LIFT LEFT",
+    "introduce": "Lie on your left side with your head resting on your left hand. \\n\\nThen put your right foot forward on the floor. Lift your left leg up and down.",
+    "videoUrl": "https://youtu.be/Dm1GSX1vItY",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 12,
+    "muscle": "1-2-21",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "2",
+      "muscle_major": [
+        "16"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "34"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/78/attrs/5/data/data",
+      "text_en": "assets/workout/actions/78/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "80",
+    "name": "SIDE LEG CIRCLES LEFT",
+    "introduce": "Lie on your right side with your head resting on your right hand. \\n\\nThen lift your left leg and rotate your foot in circles.",
+    "videoUrl": "https://youtu.be/VgysBPnVJWg",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 12,
+    "muscle": "1-2",
+    "kaluli": "0.22",
+    "mankaluli": 0.16,
+    "womankaluli": 0.16,
+    "customfields": {
+      "type_tag": "1",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [
+        "13"
+      ],
+      "musclepart_major": [
+        "30",
+        "31"
+      ],
+      "musclepart_minor": [
+        "34"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/80/attrs/5/data/data",
+      "text_en": "assets/workout/actions/80/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "82",
+    "name": "SIDE-LYING LEG LIFT LEFT",
+    "introduce": "Lie down on your side with your head rested on your right arm. Lift your upper leg up and return to the start position.\\n\\nMake sure your left leg goes straight up and down during the exercise.\\n\\nIt\\'s a great exercise for the gluteus.",
+    "videoUrl": "https://youtu.be/VlwBJE1WtOQ",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 12,
+    "muscle": "1-2-14",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "1",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [
+        "13"
+      ],
+      "musclepart_major": [
+        "30",
+        "31"
+      ],
+      "musclepart_minor": [
+        "34"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/82/attrs/7/data/data",
+      "text_en": "assets/workout/actions/82/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "83",
+    "name": "SIDE LEG CIRCLES RIGHT",
+    "introduce": "Lie on your left side with your head resting on your left hand. \\n\\nThen lift your right leg and rotate your foot in circles.",
+    "videoUrl": "https://youtu.be/VgysBPnVJWg",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2-14",
+    "kaluli": "0.22",
+    "mankaluli": 0.16,
+    "womankaluli": 0.16,
+    "customfields": {
+      "type_tag": "1",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [
+        "13"
+      ],
+      "musclepart_major": [
+        "30",
+        "31"
+      ],
+      "musclepart_minor": [
+        "34"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/83/attrs/5/data/data",
+      "text_en": "assets/workout/actions/83/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "85",
+    "name": "BULGARIAN SPLIT SQUAT RIGHT",
+    "introduce": "Stand several feet away from a bench. Rest your right foot on the bench behind you. \\n\\nLower your body until your back knee nearly touches the floor and your front thigh is parallel to the floor. \\n\\nThen go back to the start position and repeat the exercise. \\n\\nThere should be enough space between your front foot and the bench so that your front knee does not go over your toes. Keep your upper body straight.\\n\\nIt\\'s a great exercise for the gluteus and hamstrings.",
+    "videoUrl": "https://youtu.be/Brh1SHAkknI",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 11,
+    "muscle": "1-2-14",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "25",
+      "muscle_major": [
+        "8",
+        "9"
+      ],
+      "muscle_minor": [
+        "10",
+        "11"
+      ],
+      "musclepart_major": [
+        "29",
+        "32"
+      ],
+      "musclepart_minor": [
+        "33",
+        "36"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "3"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/85/attrs/7/data/data",
+      "text_en": "assets/workout/actions/85/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "87",
+    "name": "SIDE HOP",
+    "introduce": "Stand on the floor, put your hands in front of you and hop from side to side.",
+    "videoUrl": "https://youtu.be/nYmUEJIBj3c",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 6,
+    "muscle": "1-2",
+    "kaluli": "0.42",
+    "mankaluli": 0.84,
+    "womankaluli": 0.84,
+    "customfields": {
+      "type_tag": "45",
+      "muscle_major": [
+        "8",
+        "9",
+        "10"
+      ],
+      "muscle_minor": [
+        "11"
+      ],
+      "musclepart_major": [
+        "29",
+        "32",
+        "33"
+      ],
+      "musclepart_minor": [
+        "30",
+        "31",
+        "35",
+        "36"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/87/attrs/6/data/data",
+      "text_en": "assets/workout/actions/87/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "88",
+    "name": "BACKWARD LUNGE",
+    "introduce": "Stand with your feet shoulder width apart and your hands on your hips. \\n\\nStep a big step backward with your right leg and lower your body until your left thigh is parallel to the floor. Return and repeat with the other side.",
+    "videoUrl": "https://youtu.be/_LGpDtENZ5U",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2-14",
+    "kaluli": "0.22",
+    "mankaluli": 1.32,
+    "womankaluli": 1.32,
+    "customfields": {
+      "type_tag": "25",
+      "muscle_major": [
+        "8",
+        "9"
+      ],
+      "muscle_minor": [
+        "10",
+        "11"
+      ],
+      "musclepart_major": [
+        "29",
+        "32"
+      ],
+      "musclepart_minor": [
+        "36",
+        "33"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "3",
+        "5"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/88/attrs/8/data/data",
+      "text_en": "assets/workout/actions/88/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "90",
+    "name": "PLANK LEG UP",
+    "introduce": "Start in the straight arm plank position. Then alternately lift and lower both legs up and down.",
+    "videoUrl": "https://youtu.be/O9j5_BriCW4",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 10,
+    "muscle": "0-10-1-2-14-6",
+    "kaluli": "0.28",
+    "mankaluli": 0.98,
+    "womankaluli": 0.98,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1",
+        "8"
+      ],
+      "muscle_minor": [
+        "10"
+      ],
+      "musclepart_major": [
+        "15",
+        "29"
+      ],
+      "musclepart_minor": [
+        "33",
+        "16"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/90/attrs/5/data/data",
+      "text_en": "assets/workout/actions/90/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "91",
+    "name": "GLUTE KICK BACK LEFT",
+    "introduce": "Start on all fours with your knees under your butt and your hands directly under your shoulders. \\n\\nThen kick one leg back until it is parallel with the ground. Switch to the other side after several sets.",
+    "videoUrl": "https://youtu.be/D4gxkgZQkAg",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "20",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [
+        "10"
+      ],
+      "musclepart_major": [
+        "29"
+      ],
+      "musclepart_minor": [
+        "33"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/91/attrs/5/data/data",
+      "text_en": "assets/workout/actions/91/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "92",
+    "name": "GLUTE KICK BACK RIGHT",
+    "introduce": "Start on all fours with your knees under your butt and your hands directly under your shoulders. \\n\\nThen kick one leg back until it is parallel with the ground. Switch to the other side after several sets.",
+    "videoUrl": "https://youtu.be/D4gxkgZQkAg",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "20",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [
+        "10"
+      ],
+      "musclepart_major": [
+        "29"
+      ],
+      "musclepart_minor": [
+        "33"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/92/attrs/5/data/data",
+      "text_en": "assets/workout/actions/92/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "120",
+    "name": "INCHWORMS",
+    "introduce": "Start with your feet shoulder width apart. \\n\\nBend your body and walk your hands in front of you as far as you can, then walk your hands back. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/ZY2ji_Ho0dA",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 14,
+    "muscle": "7",
+    "kaluli": "0.2",
+    "mankaluli": 2.2,
+    "womankaluli": 2.2,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1",
+        "6"
+      ],
+      "muscle_minor": [
+        "3",
+        "8",
+        "9",
+        "10",
+        "12",
+        "7"
+      ],
+      "musclepart_major": [
+        "15",
+        "16",
+        "2"
+      ],
+      "musclepart_minor": [
+        "22",
+        "29",
+        "32",
+        "33",
+        "8",
+        "9",
+        "10",
+        "4",
+        "5",
+        "17"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/120/attrs/7/data/data",
+      "text_en": "assets/workout/actions/120/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "124",
+    "name": "CROSSOVER CRUNCH",
+    "introduce": "Lie on your back with your knees bent and your hands behind your ears. \\n\\nRaise and twist your torso so your right elbow moves to meet your left knee. Repeat with the other side.",
+    "videoUrl": "https://youtu.be/q2_KHKE5CDE",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 1,
+    "classid": 10,
+    "muscle": "0-10-11",
+    "kaluli": "0.28",
+    "mankaluli": 1.12,
+    "womankaluli": 1.12,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "8",
+        "9"
+      ],
+      "musclepart_major": [
+        "15",
+        "16"
+      ],
+      "musclepart_minor": [
+        "29",
+        "32"
+      ],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "8",
+        "9"
+      ],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/124/attrs/7/data/data",
+      "text_en": "assets/workout/actions/124/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "125",
+    "name": "FLUTTER KICKS",
+    "introduce": "Lie on your back with your arms at your sides. Lift your legs and keep them as straight as you can. \\n\\nThen quickly raise your right leg up, and simultaneously lower your left leg. Switch legs and repeat.",
+    "videoUrl": "https://youtu.be/K5wuM_gNWyw",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 12,
+    "muscle": "0-10-11-2-14",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "9",
+        "13"
+      ],
+      "musclepart_major": [
+        "15"
+      ],
+      "musclepart_minor": [
+        "32",
+        "34"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/125/attrs/7/data/data",
+      "text_en": "assets/workout/actions/125/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "127",
+    "name": "HEEL TOUCH",
+    "introduce": "Lie on the ground with your legs bent and your arms by your sides. \\n\\nSlightly lift your upper body off the floor and make your hands alternately reach your heels.",
+    "videoUrl": "https://youtu.be/9bR-elyolBQ",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-11",
+    "kaluli": "0.28",
+    "mankaluli": 0.84,
+    "womankaluli": 0.84,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "16"
+      ],
+      "musclepart_minor": [
+        "15"
+      ],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "10",
+        "9"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/127/attrs/8/data/data",
+      "text_en": "assets/workout/actions/127/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "128",
+    "name": "SIDE ARM RAISE",
+    "introduce": "Stand with your feet shoulder width apart.\\n\\nRaise your arms to the sides at shoulder height, then put them down. \\n\\nRepeat the exercise. Keep your arms straight during the exercise.",
+    "videoUrl": "https://youtu.be/YslHgg2E-Ro",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 7,
+    "muscle": "4-13-16",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "22",
+      "muscle_major": [
+        "7"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "5"
+      ],
+      "musclepart_minor": [
+        "4",
+        "17"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/128/attrs/5/data/data",
+      "text_en": "assets/workout/actions/128/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "129",
+    "name": "ADDUCTOR STRETCH IN STANDING",
+    "introduce": "Stand with your feet wide distance apart and your hands rested on your hips. \\n\\nThen bend your left leg and lean your body to the left side. \\n\\nHold the position for a few seconds, then return and repeat with the other side.",
+    "videoUrl": "https://youtu.be/MjFb2MyaNjs",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 8,
+    "muscle": "1-2-14-21-5",
+    "kaluli": "0.15",
+    "mankaluli": 0.76,
+    "womankaluli": 0.76,
+    "customfields": {
+      "type_tag": "2",
+      "muscle_major": [
+        "8",
+        "9",
+        "16"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "29",
+        "32",
+        "34"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/129/attrs/7/data/data",
+      "text_en": "assets/workout/actions/129/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "136",
+    "name": "ARM CIRCLES COUNTERCLOCKWISE",
+    "introduce": "Stand on the floor with your arms extended straight out to the sides at shoulder height. \\n\\nMove your arms counterclockwise in circles fast.\\n\\nTry to do it as fast as you can.\\n\\nIt\\'s a great exercise for the deltoid muscle.",
+    "videoUrl": "https://youtu.be/Lha66p0ZXUc",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 7,
+    "muscle": "4-13-16-24",
+    "kaluli": "0.22",
+    "mankaluli": 0.28,
+    "womankaluli": 0.28,
+    "customfields": {
+      "type_tag": "45",
+      "muscle_major": [
+        "7"
+      ],
+      "muscle_minor": [
+        "4"
+      ],
+      "musclepart_major": [
+        "4",
+        "5",
+        "6"
+      ],
+      "musclepart_minor": [
+        "18",
+        "17"
+      ],
+      "work_part": [
+        "2"
+      ],
+      "muscle_tag": [
+        "25",
+        "26",
+        "27"
+      ],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/136/attrs/8/data/data",
+      "text_en": "assets/workout/actions/136/text/4/data/en"
+    }
+  },
+  {
+    "action_id": "141",
+    "name": "CAT COW POSE",
+    "introduce": "Start on all fours with your knees under your butt and your hands directly under your shoulders. \\n\\nThen take a breath and make your belly fall down, shoulders roll back and head come up towards the ceiling. \\n\\nAs you exhale, curve your back upward and let your head come down. Repeat the exercise.\\n\\nDo it slowly with each step of this exercise.",
+    "videoUrl": "https://youtu.be/w_UKcI1Ftn8",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "0-17",
+    "kaluli": "0.15",
+    "mankaluli": 0.6,
+    "womankaluli": 0.6,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "1",
+        "13"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "15",
+        "16",
+        "12"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/141/attrs/7/data/data",
+      "text_en": "assets/workout/actions/141/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "143",
+    "name": "CHEST STRETCH",
+    "introduce": "Find a doorway, take a lunge position in the doorway with your arms on the doorframe and your elbows a little lower than your shoulders, then slowly bring your chest forward. \\n\\nHold this position for 30-40 seconds. Then slowly come out of it, bring your arms down and do a couple of shoulder rolls.\\n\\nDon’t pull your head forward, and keep your neck relaxed.",
+    "videoUrl": "https://youtu.be/NS64IgKUyeY",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "3-5-16",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "6",
+        "7",
+        "4"
+      ],
+      "muscle_minor": [
+        "2"
+      ],
+      "musclepart_major": [
+        "2",
+        "3",
+        "4",
+        "18"
+      ],
+      "musclepart_minor": [
+        "11",
+        "14"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/143/attrs/6/data/data",
+      "text_en": "assets/workout/actions/143/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "144",
+    "name": "CHILD'S POSE",
+    "introduce": "Start with your knees and hands on the floor. Put your hands a little forward, widen your knees and put your toes together. \\n\\nTake a breath, then exhale and sit back. Try to make your butt touch your heels. Relax your elbows, make your forehead touch the floor and try to lower your chest close to the floor. Hold this position.\\n\\nKeep your arms stretched forward as you sit back. Make sure there is enough space between your shoulders and ears during the exercise.",
+    "videoUrl": "https://youtu.be/DMwRPGMPB10",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "1-5-16-17",
+    "kaluli": "0.15",
+    "mankaluli": 0.45,
+    "womankaluli": 0.45,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "2",
+        "13"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "11",
+        "12"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/144/attrs/7/data/data",
+      "text_en": "assets/workout/actions/144/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "155",
+    "name": "SHOULDER STRETCH",
+    "introduce": "Place one arm across your body, parallel to the ground, then use the other arm to pull the parallel arm toward your chest. \\n\\nHold for a while, switch arms and repeat the exercise. Keep the inside arm straight during the exercise.",
+    "videoUrl": "https://youtu.be/9k0EN2RCGgU",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "5-16",
+    "kaluli": "0.15",
+    "mankaluli": 1.2,
+    "womankaluli": 1.2,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "7"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "6"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/155/attrs/6/data/data",
+      "text_en": "assets/workout/actions/155/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "168",
+    "name": "SWIMMER AND SUPERMAN",
+    "introduce": "Lie on your stomach with your arms extended straight overhead. Alternately lift your opposite arm and leg.",
+    "videoUrl": "https://youtu.be/XydDDn_Rngw",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 10,
+    "muscle": "1-2-14-4-18-16-17",
+    "kaluli": "0.28",
+    "mankaluli": 1.12,
+    "womankaluli": 1.12,
+    "customfields": {
+      "type_tag": "3",
+      "muscle_major": [
+        "2",
+        "8",
+        "10"
+      ],
+      "muscle_minor": [
+        "7"
+      ],
+      "musclepart_major": [
+        "12",
+        "29",
+        "33"
+      ],
+      "musclepart_minor": [
+        "6"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/168/attrs/9/data/data",
+      "text_en": "assets/workout/actions/168/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "173",
+    "name": "SIDE LEG RAISE LEFT",
+    "introduce": "Lie on your right side with your forearm supporting your upper body and your left hand on the ground in front of you. \\n\\nKeep both legs together. Lift your legs lightly and hold for one second, then return to the start position. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/Z_0p0I8B4EU",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 10,
+    "muscle": "0-11-2-14",
+    "kaluli": "0.28",
+    "mankaluli": 0.56,
+    "womankaluli": 0.56,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1",
+        "8",
+        "16"
+      ],
+      "muscle_minor": [
+        "9"
+      ],
+      "musclepart_major": [
+        "16",
+        "30",
+        "31",
+        "34"
+      ],
+      "musclepart_minor": [
+        "32"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/173/attrs/5/data/data",
+      "text_en": "assets/workout/actions/173/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "174",
+    "name": "SIDE LEG RAISE RIGHT",
+    "introduce": "Lie on your left side with your forearm supporting your upper body and your right hand on the ground in front of you. \\n\\nKeep both legs together. Lift your legs lightly and hold for one second, then return to the start position. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/Z_0p0I8B4EU",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 10,
+    "muscle": "0-11-2-14",
+    "kaluli": "0.28",
+    "mankaluli": 0.56,
+    "womankaluli": 0.56,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1",
+        "8",
+        "16"
+      ],
+      "muscle_minor": [
+        "9"
+      ],
+      "musclepart_major": [
+        "16",
+        "30",
+        "31",
+        "34"
+      ],
+      "musclepart_minor": [
+        "32"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/174/attrs/5/data/data",
+      "text_en": "assets/workout/actions/174/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "178",
+    "name": "RECLINED OBLIQUE TWIST",
+    "introduce": "Lie on your back with your legs extended and your elbows directly under your shoulders.\\n\\n Lift your left leg up at a 45 degree angle while reaching your right arm over to your left side.\\n\\n Then slowly go back to the starting position. Repeat several times, and then switch to the other side.",
+    "videoUrl": "https://youtu.be/XKW5jru5pGo",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-11-2-14",
+    "kaluli": "0.28",
+    "mankaluli": 1.12,
+    "womankaluli": 1.12,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "9"
+      ],
+      "musclepart_major": [
+        "15",
+        "16"
+      ],
+      "musclepart_minor": [
+        "32"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/178/attrs/7/data/data",
+      "text_en": "assets/workout/actions/178/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "179",
+    "name": "SIDE BRIDGES LEFT",
+    "introduce": "Lie on your right side. Put your right elbow directly under your shoulders and put your left hand on your waist. Place your left leg on your right leg.\\n\\nRaise your hips upward, hold for 2-4 seconds, then go back to the start position.\\n\\nRepeat this exercise.",
+    "videoUrl": "https://youtu.be/7ytbYd4CK3o",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-11",
+    "kaluli": "0.28",
+    "mankaluli": 1.4,
+    "womankaluli": 1.4,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "8",
+        "13"
+      ],
+      "musclepart_major": [
+        "16"
+      ],
+      "musclepart_minor": [
+        "30",
+        "31",
+        "34",
+        "17"
+      ],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "9"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/179/attrs/7/data/data",
+      "text_en": "assets/workout/actions/179/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "180",
+    "name": "SIDE BRIDGES RIGHT",
+    "introduce": "Lie on your left side. Put your left elbow directly under your shoulders and put your right hand on your waist. Place your right leg on your left leg.\\n\\nRaise your hips upward, hold for 2-4 seconds, then go back to the start position.\\n\\nRepeat this exercise.",
+    "videoUrl": "https://youtu.be/7ytbYd4CK3o",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-11",
+    "kaluli": "0.28",
+    "mankaluli": 1.4,
+    "womankaluli": 1.4,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "8",
+        "13"
+      ],
+      "musclepart_major": [
+        "16"
+      ],
+      "musclepart_minor": [
+        "30",
+        "31",
+        "34",
+        "17"
+      ],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "9"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/180/attrs/7/data/data",
+      "text_en": "assets/workout/actions/180/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "181",
+    "name": "SIDE-LYING FLOOR STRETCH LEFT",
+    "introduce": "Lie on your right side with your right knee slightly bent in front of you and your left leg stretched behind the right leg.\\n\\nStraighten your left arm over your head and gently pull on your left wrist to stretch the left side of your body.\\n\\nHold this position for a few seconds.",
+    "videoUrl": "https://youtu.be/DMlSdmsHEeI",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "0-11-5-16",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "2"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "11"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/181/attrs/5/data/data",
+      "text_en": "assets/workout/actions/181/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "182",
+    "name": "SIDE-LYING FLOOR STRETCH RIGHT",
+    "introduce": "Lie on your left side with your left knee slightly bent in front of you and your right leg stretched behind the left leg.\\n\\nStraighten your right arm over your head and gently pull on your right wrist to stretch the right side of your body.\\n\\nHold this position for a few seconds.",
+    "videoUrl": "https://youtu.be/DMlSdmsHEeI",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "0-11-5-16",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "2"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "11"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/182/attrs/5/data/data",
+      "text_en": "assets/workout/actions/182/text/4/data/en"
+    }
+  },
+  {
+    "action_id": "183",
+    "name": "HYPEREXTENSION",
+    "introduce": "Lie down on your stomach with your toes touching the floor, and your chin on your hand.\\n\\nRaise your chest up as high as possible off the floor. Hold this position for a few seconds and then go back to the start position.\\n\\nRepeat this exercise.",
+    "videoUrl": "https://youtu.be/W9y8xq4Ya_E",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 14,
+    "muscle": "17",
+    "kaluli": "0.2",
+    "mankaluli": 0.8,
+    "womankaluli": 0.8,
+    "customfields": {
+      "type_tag": "3",
+      "muscle_major": [
+        "13"
+      ],
+      "muscle_minor": [
+        "8"
+      ],
+      "musclepart_major": [
+        "12"
+      ],
+      "musclepart_minor": [
+        "29"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/183/attrs/7/data/data",
+      "text_en": "assets/workout/actions/183/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "184",
+    "name": "RECLINED RHOMBOID SQUEEZES",
+    "introduce": "Sit with your knees bent. Slightly lean your upper body back.\\n\\nStretch your arms in front of you, then pull your elbows back to make your elbows at a 90 degree angle and squeeze your shoulder blades.\\n\\nRepeat this exercise.",
+    "videoUrl": "https://youtu.be/olv2Sv9DwmA",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-16-17",
+    "kaluli": "0.28",
+    "mankaluli": 0.56,
+    "womankaluli": 0.56,
+    "customfields": {
+      "type_tag": "51",
+      "muscle_major": [
+        "7",
+        "1",
+        "2"
+      ],
+      "muscle_minor": [
+        "12"
+      ],
+      "musclepart_major": [
+        "15",
+        "6",
+        "7",
+        "13",
+        "14"
+      ],
+      "musclepart_minor": [
+        "11",
+        "9",
+        "10"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/184/attrs/5/data/data",
+      "text_en": "assets/workout/actions/184/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "185",
+    "name": "RHOMBOID PULLS",
+    "introduce": "Stand with your feet shoulder width apart.\\n\\nRaise your arms parallel to the ground, and bend your elbows. Pull your elbows back and squeeze your shoulder blades.\\n\\nRepeat this exercise.",
+    "videoUrl": "https://youtu.be/DEyDbzSudEU",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 14,
+    "muscle": "16-17",
+    "kaluli": "0.2",
+    "mankaluli": 0.48,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "51",
+      "muscle_major": [
+        "7",
+        "2"
+      ],
+      "muscle_minor": [
+        "12"
+      ],
+      "musclepart_major": [
+        "6",
+        "7",
+        "13",
+        "14"
+      ],
+      "musclepart_minor": [
+        "11",
+        "9",
+        "10"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/185/attrs/5/data/data",
+      "text_en": "assets/workout/actions/185/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "186",
+    "name": "PRONE TRICEPS PUSH UPS",
+    "introduce": "Lie on your stomach with your hands underneath your shoulders and your elbows bent.\\n\\nSlightly raise your chest up, and then go back to the start position.\\n\\nRepeat this exercise.",
+    "videoUrl": "https://youtu.be/Rr43jMaoJ9g",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "4-12",
+    "kaluli": "0.2",
+    "mankaluli": 0.6,
+    "womankaluli": 0.6,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "3"
+      ],
+      "muscle_minor": [
+        "7",
+        "6"
+      ],
+      "musclepart_major": [
+        "22"
+      ],
+      "musclepart_minor": [
+        "2",
+        "3",
+        "4"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/186/attrs/5/data/data",
+      "text_en": "assets/workout/actions/186/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "187",
+    "name": "TRICEPS KICKBACKS",
+    "introduce": "Lean forward, bend your knees and your elbows.\\n\\nExtend your arms behind you and squeeze your triceps. Please make your arms parallel to the ground when extending them.\\n\\nGo back to the start position, and repeat this exercise.",
+    "videoUrl": "https://youtu.be/f3E7eEq2c6c",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "4-12",
+    "kaluli": "0.2",
+    "mankaluli": 1.2,
+    "womankaluli": 1.2,
+    "customfields": {
+      "type_tag": "42",
+      "muscle_major": [
+        "3"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "23"
+      ],
+      "musclepart_minor": [
+        "24",
+        "25"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/187/attrs/7/data/data",
+      "text_en": "assets/workout/actions/187/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "188",
+    "name": "PIKE PUSH UPS",
+    "introduce": "Start with your hands and feet on the floor. Put your hands shoulder width apart. Bend your body, and lift your hips up in an upside down \\'V\\' shape.\\n\\nBend your elbows, and bring your head close to the floor. Push your body back, and repeat the exercise.",
+    "videoUrl": "https://youtu.be/Q2koXI9jphI",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "4-12-16",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "7",
+        "6"
+      ],
+      "muscle_minor": [
+        "3"
+      ],
+      "musclepart_major": [
+        "4",
+        "2"
+      ],
+      "musclepart_minor": [
+        "3",
+        "17",
+        "22"
+      ],
+      "work_part": [
+        "1",
+        "2"
+      ],
+      "muscle_tag": [
+        "25",
+        "20"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/188/attrs/7/data/data",
+      "text_en": "assets/workout/actions/188/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "189",
+    "name": "HOVER PUSH UP",
+    "introduce": "Start in a push-up position. Lower yourself; shift your body to the left and then to the right.\\n\\nPush your body up and repeat the exercise.",
+    "videoUrl": "https://youtu.be/6wdVoBSkU0Y",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "4",
+    "etype": 1,
+    "strength": 2,
+    "classid": 14,
+    "muscle": "3-4-12-16",
+    "kaluli": "0.2",
+    "mankaluli": 1,
+    "womankaluli": 1,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6"
+      ],
+      "muscle_minor": [
+        "3",
+        "7"
+      ],
+      "musclepart_major": [
+        "3"
+      ],
+      "musclepart_minor": [
+        "4",
+        "2",
+        "22"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/189/attrs/5/data/data",
+      "text_en": "assets/workout/actions/189/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "190",
+    "name": "SUPINE PUSH UP",
+    "introduce": "Lie on your back with your feet flat on the floor and your arms bent on two sides.\\n\\nPush your chest up as far as you can, and then slowly go back to the start position.\\n\\nRepeat the exercise.",
+    "videoUrl": "https://youtu.be/WwbgPb9Gb48",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 14,
+    "muscle": "4-12-16-17",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "38",
+      "muscle_major": [
+        "2",
+        "12",
+        "7"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "9",
+        "10",
+        "7",
+        "13",
+        "14"
+      ],
+      "musclepart_minor": [
+        "6"
+      ],
+      "work_part": [
+        "3"
+      ],
+      "muscle_tag": [
+        "16",
+        "27"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/190/attrs/7/data/data",
+      "text_en": "assets/workout/actions/190/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "191",
+    "name": "REVERSE SNOW ANGELS",
+    "introduce": "Lie on your stomach with your arms at your sides.\\n\\nLift your arms up and extend them over your head to touch your thumbs. Then slowly bring them back.\\n\\nRepeat the exercise.",
+    "videoUrl": "https://youtu.be/0qLP2RNKX4A",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "4-18-16-17",
+    "kaluli": "0.2",
+    "mankaluli": 1.2,
+    "womankaluli": 1.2,
+    "customfields": {
+      "type_tag": "22",
+      "muscle_major": [
+        "7",
+        "2"
+      ],
+      "muscle_minor": [
+        "12"
+      ],
+      "musclepart_major": [
+        "5",
+        "6",
+        "11",
+        "13"
+      ],
+      "musclepart_minor": [
+        "8",
+        "9",
+        "10",
+        "14"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/191/attrs/5/data/data",
+      "text_en": "assets/workout/actions/191/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "192",
+    "name": "ARM SCISSORS",
+    "introduce": "Stand upright with your feet shoulder width apart.\\n\\nStretch your arms in front of you at shoulder height with one arm overlap the other in the shape of the letter “X”, and then spread them apart.\\n\\nSwitch arms, and repeat the exercise.",
+    "videoUrl": "https://youtu.be/pFrJQ-MyL10",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 7,
+    "muscle": "4-13-16-18",
+    "kaluli": "0.22",
+    "mankaluli": 0.88,
+    "womankaluli": 0.88,
+    "customfields": {
+      "type_tag": "49",
+      "muscle_major": [
+        "6",
+        "7"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "4",
+        "2",
+        "3",
+        0
+      ],
+      "musclepart_minor": [
+        "5",
+        "17"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/192/attrs/5/data/data",
+      "text_en": "assets/workout/actions/192/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "193",
+    "name": "FLOOR Y RAISES",
+    "introduce": "Lie face down on the floor with your arms fully extended and your thumbs pointing up, your body should be in the shape of the letter “Y”.\\n\\nRaise your arms off the ground as far as you can and pause them at the top for 2 seconds. Slowly go back to the start position, and repeat the exercise.",
+    "videoUrl": "https://youtu.be/lUGi7NilqWA",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "4-18-16-17",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "36",
+      "muscle_major": [
+        "7"
+      ],
+      "muscle_minor": [
+        "12"
+      ],
+      "musclepart_major": [
+        "6"
+      ],
+      "musclepart_minor": [
+        "7",
+        "9",
+        "10"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/193/attrs/5/data/data",
+      "text_en": "assets/workout/actions/193/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "194",
+    "name": "V-UP",
+    "introduce": "Lie on your back with your arms and legs extended and your legs squeezed together.\\n\\nRaise your upper body and legs, use your arms to touch your toes, then go back to the start position and repeat the exercise.",
+    "videoUrl": "https://youtu.be/5kvKmRGADlQ",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10",
+    "kaluli": "0.28",
+    "mankaluli": 0.56,
+    "womankaluli": 0.56,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "9"
+      ],
+      "musclepart_major": [
+        "15"
+      ],
+      "musclepart_minor": [
+        "16",
+        "32"
+      ],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "8",
+        "3"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/194/attrs/7/data/data",
+      "text_en": "assets/workout/actions/194/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "195",
+    "name": "HIP HINGE",
+    "introduce": "Stand upright with your feet shoulder-width apart.\\n\\nSit your hips back and bend your upper body while keeping your upper body straight, then slowly go back to the start position and repeat the exercise.\\n\\nInhale as you bend down, and exhale as you come up.",
+    "videoUrl": "https://youtu.be/VyFDPMOy-eA",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 2,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "1-2-27-17",
+    "kaluli": "0.15",
+    "mankaluli": 1.05,
+    "womankaluli": 1.05,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "13",
+        "8",
+        "10"
+      ],
+      "muscle_minor": [
+        "11"
+      ],
+      "musclepart_major": [
+        "12",
+        "29",
+        "33"
+      ],
+      "musclepart_minor": [
+        "35",
+        "36"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/195/attrs/6/data/data",
+      "text_en": "assets/workout/actions/195/text/21/data/en"
+    }
+  },
+  {
+    "action_id": "196",
+    "name": "SPINE LUMBAR TWIST STRETCH RIGHT",
+    "introduce": "Lie on your back with your legs extended. \\n\\nExhale, lift your right leg up and use your left hand to pull your right knee to the left. Keep your other arm extended to the side on the floor. \\n\\nBreathe naturally. Hold this position for a few seconds.",
+    "videoUrl": "https://youtu.be/ryNlb_0GmAw",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "0-11-1-5",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "1",
+        "8"
+      ],
+      "muscle_minor": [
+        "16",
+        "2",
+        "12"
+      ],
+      "musclepart_major": [
+        "16",
+        "29"
+      ],
+      "musclepart_minor": [
+        "12",
+        "9",
+        "10",
+        "14"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/196/attrs/6/data/data",
+      "text_en": "assets/workout/actions/196/text/9/data/en"
+    }
+  },
+  {
+    "action_id": "197",
+    "name": "SPINE LUMBAR TWIST STRETCH LEFT",
+    "introduce": "Lie on your back with your legs extended. \\n\\nExhale, lift your left leg up and use your right hand to pull your left knee to the right. Keep your other arm extended to the side on the floor.\\n\\nBreathe naturally. Hold this position for a few seconds.",
+    "videoUrl": "https://youtu.be/ryNlb_0GmAw",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "0-11-1-5",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "1",
+        "8"
+      ],
+      "muscle_minor": [
+        "16",
+        "2",
+        "12"
+      ],
+      "musclepart_major": [
+        "16",
+        "29"
+      ],
+      "musclepart_minor": [
+        "12",
+        "9",
+        "10",
+        "14"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/197/attrs/6/data/data",
+      "text_en": "assets/workout/actions/197/text/6/data/en"
+    }
+  },
+  {
+    "action_id": "198",
+    "name": "COBRA STRETCH",
+    "introduce": "Lie down on your stomach and bend your elbows with your hands beneath your shoulders. \\n\\nThen push your chest up off the ground as far as possible. Hold this position for seconds.",
+    "videoUrl": "https://youtu.be/z21McHHOpAg",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "0-10-5",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "16",
+        "8",
+        "10"
+      ],
+      "musclepart_major": [
+        "15"
+      ],
+      "musclepart_minor": [
+        "12",
+        "29",
+        "33"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/198/attrs/7/data/data",
+      "text_en": "assets/workout/actions/198/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "201",
+    "name": "CALF STRETCH LEFT",
+    "introduce": "Stand one big step away in front of a wall. Step forward with your right foot and push the wall with your hands. \\n\\nPlease make sure your left leg is fully extended and you can feel your left calf stretching. Hold this position for a few seconds.",
+    "videoUrl": "https://youtu.be/mJOGKTYUAzY",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "2-15-5",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "35",
+        "36"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/201/attrs/6/data/data",
+      "text_en": "assets/workout/actions/201/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "202",
+    "name": "CALF STRETCH RIGHT",
+    "introduce": "Stand one big step away in front of a wall. Step forward with your left foot and push the wall with your hands. \\n\\nPlease make sure your right leg is fully extended and you can feel your right calf stretching. Hold this position for a few seconds.",
+    "videoUrl": "https://youtu.be/mJOGKTYUAzY",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "2-15-5",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "35",
+        "36"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/202/attrs/6/data/data",
+      "text_en": "assets/workout/actions/202/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "203",
+    "name": "TRICEPS STRETCH LEFT",
+    "introduce": "Put your left hand on your back, use your right hand to grab your left elbow and gently pull it. Hold this position for a few seconds.",
+    "videoUrl": "https://youtu.be/L9IGOcrdcFk",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "4-12-5-16",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "3"
+      ],
+      "muscle_minor": [
+        "2"
+      ],
+      "musclepart_major": [
+        "22"
+      ],
+      "musclepart_minor": [
+        "11"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/203/attrs/6/data/data",
+      "text_en": "assets/workout/actions/203/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "204",
+    "name": "TRICEPS STRETCH RIGHT",
+    "introduce": "Put your right hand on your back, use your left hand to grab your right elbow and gently pull it. Hold this position for a few seconds.",
+    "videoUrl": "https://youtu.be/L9IGOcrdcFk",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "4-12-5-16",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "3"
+      ],
+      "muscle_minor": [
+        "2"
+      ],
+      "musclepart_major": [
+        "22"
+      ],
+      "musclepart_minor": [
+        "11"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/204/attrs/6/data/data",
+      "text_en": "assets/workout/actions/204/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "214",
+    "name": "SINGLE LEG CALF HOP LEFT",
+    "introduce": "Stand straight with your right leg lifted. Then hop up and down on your left foot.",
+    "videoUrl": "https://youtu.be/oeVFHaGmVM8",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 12,
+    "muscle": "2-15",
+    "kaluli": "0.22",
+    "mankaluli": 0.18,
+    "womankaluli": 0.18,
+    "customfields": {
+      "type_tag": "29",
+      "muscle_major": [
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "35",
+        "36"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/214/attrs/5/data/data",
+      "text_en": "assets/workout/actions/214/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "215",
+    "name": "SINGLE LEG CALF HOP RIGHT",
+    "introduce": "Stand straight with your left leg lifted. Then hop up and down on your right foot.",
+    "videoUrl": "https://youtu.be/oeVFHaGmVM8",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 12,
+    "muscle": "2-15",
+    "kaluli": "0.22",
+    "mankaluli": 0.18,
+    "womankaluli": 0.18,
+    "customfields": {
+      "type_tag": "29",
+      "muscle_major": [
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "35",
+        "36"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/215/attrs/5/data/data",
+      "text_en": "assets/workout/actions/215/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "217",
+    "name": "LEANING STRETCHER RAISES",
+    "introduce": "Stand a big step away from the wall, put your hands on the wall and lean on it. \\n\\nLift your heels as high as you can and then lower them down. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/qQ-StR-AXzM",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 12,
+    "muscle": "2-15",
+    "kaluli": "0.22",
+    "mankaluli": 0.88,
+    "womankaluli": 0.88,
+    "customfields": {
+      "type_tag": "7",
+      "muscle_major": [
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "35"
+      ],
+      "musclepart_minor": [
+        "36"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/217/attrs/5/data/data",
+      "text_en": "assets/workout/actions/217/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "218",
+    "name": "LEFT QUAD STRETCH WITH WALL",
+    "introduce": "Stand with your right hand on the wall. Bend your left leg and grasp your ankle or toes to bring your left calf close to your left thigh. Hold this position.",
+    "videoUrl": "https://youtu.be/TfcRyYf7WLg",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "2-14-5",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "9"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "32"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/218/attrs/6/data/data",
+      "text_en": "assets/workout/actions/218/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "219",
+    "name": "RIGHT QUAD STRETCH WITH WALL",
+    "introduce": "Stand with your left hand on the wall. Bend your right leg and grasp your ankle or toes to bring your right calf close to your right thigh. Hold this position.",
+    "videoUrl": "https://youtu.be/TfcRyYf7WLg",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "2-14-5",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "9"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "32"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/219/attrs/6/data/data",
+      "text_en": "assets/workout/actions/219/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "220",
+    "name": "WALL CALF RAISES",
+    "introduce": "Stand straight with your hands on the wall and feet shoulder width apart. \\n\\nLift your heels and stand on your toes. Then drop your heels down. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/GQa_N7wft7M",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 12,
+    "muscle": "2-15",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "7",
+      "muscle_major": [
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "35"
+      ],
+      "musclepart_minor": [
+        "36"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/220/attrs/5/data/data",
+      "text_en": "assets/workout/actions/220/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "221",
+    "name": "SUMO SQUAT CALF RAISES WITH WALL",
+    "introduce": "Stand with your hands on the wall and your feet a little wider than shoulder width apart.\\n\\nLower your body until your thighs are parallel to the floor. Lift your heels up and down.",
+    "videoUrl": "https://youtu.be/Hcy81KUTIZ8",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 11,
+    "muscle": "1-2-15",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "7",
+      "muscle_major": [
+        "8",
+        "9",
+        "11"
+      ],
+      "muscle_minor": [
+        "13",
+        "10"
+      ],
+      "musclepart_major": [
+        "29",
+        "32",
+        "35"
+      ],
+      "musclepart_minor": [
+        "34",
+        "33",
+        "36"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/221/attrs/5/data/data",
+      "text_en": "assets/workout/actions/221/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "222",
+    "name": "LYING BUTTERFLY STRETCH",
+    "introduce": "Lie on the floor with your feet together. Open your knees to the sides. Hold this position.\\n\\nBreathe in deeply and slowly breathe out.",
+    "videoUrl": "https://youtu.be/bzfY0Zr3sUE",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "2-21",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "8",
+        "16"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "29",
+        "34"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/222/attrs/6/data/data",
+      "text_en": "assets/workout/actions/222/text/4/data/en"
+    }
+  },
+  {
+    "action_id": "223",
+    "name": "SUMO SQUAT",
+    "introduce": "Stand with your feet 6-12 inches apart. Stretch your arms in front of you.\\n\\nLower your body until your thighs are parallel to the floor. Return to the starting position and repeat the exercise.",
+    "videoUrl": "https://youtu.be/Z2F0bArQH5s",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 1,
+    "classid": 11,
+    "muscle": "1-2-14",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "41",
+      "muscle_major": [
+        "8",
+        "9"
+      ],
+      "muscle_minor": [
+        "13",
+        "10",
+        "11"
+      ],
+      "musclepart_major": [
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "musclepart_minor": [
+        "33",
+        "36",
+        "35",
+        "34"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "3",
+        "6"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/223/attrs/7/data/data",
+      "text_en": "assets/workout/actions/223/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "224",
+    "name": "CALF RAISE WITH SPLAYED FOOT",
+    "introduce": "Stand with your feet shoulder width apart. Put your hands on the wall to maintain balance. \\n\\nTwist your ankles to make your toes point outwards, then lift your heels up and down.",
+    "videoUrl": "https://youtu.be/wcMPalYWlpg",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 12,
+    "muscle": "2-15",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "7",
+      "muscle_major": [
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "35"
+      ],
+      "musclepart_minor": [
+        "36"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/224/attrs/5/data/data",
+      "text_en": "assets/workout/actions/224/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "225",
+    "name": "CALF RAISE WITH PIGEON-TOED",
+    "introduce": "Stand with your feet shoulder width apart, knees a little bent and heels pointing outwards. \\n\\nPut your hands on the wall to maintain balance. Lift your heels up and down.",
+    "videoUrl": "https://youtu.be/9p_GzSpzlRk",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 12,
+    "muscle": "2-15",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "7",
+      "muscle_major": [
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "35"
+      ],
+      "musclepart_minor": [
+        "36"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/225/attrs/5/data/data",
+      "text_en": "assets/workout/actions/225/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "226",
+    "name": "WALL RESISTING SINGLE LEG CALF RAISE LEFT",
+    "introduce": "Stand a big step away from the wall. Put your right foot on your left ankle. Put your hands on the wall and lean on it. \\n\\nLift your left heel as high as you can and then lower it. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/795rPzSVOd4",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 12,
+    "muscle": "2-15",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "7",
+      "muscle_major": [
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "35",
+        "36"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/226/attrs/5/data/data",
+      "text_en": "assets/workout/actions/226/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "227",
+    "name": "WALL RESISTING SINGLE LEG CALF RAISE RIGHT",
+    "introduce": "Stand a big step away from the wall. Put your left foot on your right ankle. Put your hands on the wall and lean on it. \\n\\nLift your right heel as high as you can and then lower it. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/795rPzSVOd4",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 12,
+    "muscle": "2-15",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "7",
+      "muscle_major": [
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "35",
+        "36"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/227/attrs/5/data/data",
+      "text_en": "assets/workout/actions/227/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "232",
+    "name": "CRUNCHES WITH LEGS RAISED",
+    "introduce": "Lie on your back with your legs straight up towards the ceiling and your hands behind your ears. \\n\\nLift your shoulders up off the floor, then slowly go back to the starting position. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/ulSBgyB8evM",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-2-14",
+    "kaluli": "0.28",
+    "mankaluli": 0.56,
+    "womankaluli": 0.56,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "15"
+      ],
+      "musclepart_minor": [
+        "16"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/232/attrs/5/data/data",
+      "text_en": "assets/workout/actions/232/text/4/data/en"
+    }
+  },
+  {
+    "action_id": "236",
+    "name": "REVERSE CRUNCHES WITH LEG RAISED",
+    "introduce": "Lie on your back with your legs stretched and your hands underneath your hips. \\n\\nLift your knees until your thighs are perpendicular to the floor. Straighten your legs and lift your hips up off the floor. \\n\\nReturn to the starting position and repeat the exercise.",
+    "videoUrl": "https://youtu.be/dV8ll1vnle0",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-2-14",
+    "kaluli": "0.28",
+    "mankaluli": 0.7,
+    "womankaluli": 0.7,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1",
+        "9"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "15",
+        "32"
+      ],
+      "musclepart_minor": [
+        "16"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/236/attrs/6/data/data",
+      "text_en": "assets/workout/actions/236/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "241",
+    "name": "SIT-UP TWIST",
+    "introduce": "Start in the lying position with your knees bent and feet slightly apart. \\n\\nPlace your hands behind your ears. Raise your upper body up and twist to one side. \\n\\nSlowly lower it back to the starting position. Repeat with the other side.",
+    "videoUrl": "https://youtu.be/_xzyH6NP_9k",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-11",
+    "kaluli": "0.28",
+    "mankaluli": 1.12,
+    "womankaluli": 1.12,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "15",
+        "16"
+      ],
+      "musclepart_minor": [],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "10",
+        "9"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/241/attrs/8/data/data",
+      "text_en": "assets/workout/actions/241/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "258",
+    "name": "ARM CIRCLES CLOCKWISE",
+    "introduce": "Stand on the floor with your arms extended straight out to the sides at shoulder height. \\n\\nMove your arms clockwise in circles fast.\\n\\nTry to do it as fast as you can.\\n\\nIt\\'s a great exercise for the deltoid muscle.",
+    "videoUrl": "https://youtu.be/Lha66p0ZXUc",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 7,
+    "muscle": "4-16-18",
+    "kaluli": "0.22",
+    "mankaluli": 0.28,
+    "womankaluli": 0.28,
+    "customfields": {
+      "type_tag": "45",
+      "muscle_major": [
+        "7"
+      ],
+      "muscle_minor": [
+        "4"
+      ],
+      "musclepart_major": [
+        "4",
+        "5",
+        "6"
+      ],
+      "musclepart_minor": [
+        "18",
+        "17"
+      ],
+      "work_part": [
+        "2"
+      ],
+      "muscle_tag": [
+        "25",
+        "26",
+        "27"
+      ],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/258/attrs/8/data/data",
+      "text_en": "assets/workout/actions/258/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "259",
+    "name": "KNEE TO CHEST STRETCH LEFT",
+    "introduce": "Lie on the floor with your legs extended. Lift your left knee up and grab it with both hands. \\n\\nPull your left knee towards your chest as much as you can while keeping your right leg straight on the ground. \\n\\nHold this position for a few seconds.",
+    "videoUrl": "https://youtu.be/bJms9YyjoBI",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "1-2-14-5",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [
+        "10"
+      ],
+      "musclepart_major": [
+        "29"
+      ],
+      "musclepart_minor": [
+        "33"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/259/attrs/5/data/data",
+      "text_en": "assets/workout/actions/259/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "260",
+    "name": "KNEE TO CHEST STRETCH RIGHT",
+    "introduce": "Lie on the floor with your legs extended. Lift your right knee up and grab it with both hands. \\n\\nPull your right knee towards your chest as much as you can while keeping your left leg straight on the ground. \\n\\nHold this position for a few seconds.",
+    "videoUrl": "https://youtu.be/bJms9YyjoBI",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "1-2-14-5",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [
+        "10"
+      ],
+      "musclepart_major": [
+        "29"
+      ],
+      "musclepart_minor": [
+        "33"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/260/attrs/5/data/data",
+      "text_en": "assets/workout/actions/260/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "261",
+    "name": "STANDING GLUTE KICKBACKS LEFT",
+    "introduce": "Stand straight with arms akimbo, then kick your left leg backwards and extend it as far as you can, meanwhile keep your legs and back straight and head up. \\n\\nGo back to the start position and repeat the exercise.",
+    "videoUrl": "https://youtu.be/pn2EZjEE_ZU",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 11,
+    "muscle": "1-2-14",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "20",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [
+        "10"
+      ],
+      "musclepart_major": [
+        "29"
+      ],
+      "musclepart_minor": [
+        "33"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/261/attrs/5/data/data",
+      "text_en": "assets/workout/actions/261/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "262",
+    "name": "STANDING GLUTE KICKBACKS RIGHT",
+    "introduce": "Stand straight with arms akimbo, then kick your right leg backwards and extend it as far as you can, meanwhile keep your legs and back straight and head up. \\n\\nGo back to the start position and repeat the exercise.",
+    "videoUrl": "https://youtu.be/pn2EZjEE_ZU",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 11,
+    "muscle": "1-2-14",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "20",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [
+        "10"
+      ],
+      "musclepart_major": [
+        "29"
+      ],
+      "musclepart_minor": [
+        "33"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/262/attrs/5/data/data",
+      "text_en": "assets/workout/actions/262/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "263",
+    "name": "SHOULDER GATORS",
+    "introduce": "Stand upright with your hands beside your ears and elbows facing each side. Rotate your elbows until both of them are facing the front.",
+    "videoUrl": "https://youtu.be/JWp8_LGkTR8",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 7,
+    "muscle": "4-16-18",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "37",
+      "muscle_major": [
+        "2",
+        "7"
+      ],
+      "muscle_minor": [
+        "6"
+      ],
+      "musclepart_major": [
+        "7",
+        "13"
+      ],
+      "musclepart_minor": [
+        "6",
+        "4",
+        "2"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/263/attrs/5/data/data",
+      "text_en": "assets/workout/actions/263/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "264",
+    "name": "ALTERNATING HOOKS",
+    "introduce": "Stand with your feet shoulder-width apart, and place your dominant foot slightly forward. Slightly bend your knees, clench your fists and bend your elbows at 90 degrees. \\n\\nRaise your right arm to shoulder height and keep your forearm parallel to the ground. Rotate your shoulders and hips and punch towards the left. Switch sides and repeat.",
+    "videoUrl": "https://youtu.be/wiyvVpEKOsc",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 7,
+    "muscle": "4-16-18",
+    "kaluli": "0.22",
+    "mankaluli": 0.9,
+    "womankaluli": 0.9,
+    "customfields": {
+      "type_tag": "45",
+      "muscle_major": [
+        "7",
+        "6",
+        "2",
+        "1"
+      ],
+      "muscle_minor": [
+        "11"
+      ],
+      "musclepart_major": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "11",
+        "13",
+        "16"
+      ],
+      "musclepart_minor": [
+        "35",
+        "36"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/264/attrs/7/data/data",
+      "text_en": "assets/workout/actions/264/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "265",
+    "name": "MODIFIED PUSH-UP LOW HOLD",
+    "introduce": "Start in the standard push-up position but with your feet shoulder-width apart and knees on the ground. \\n\\nLower your body until your elbows are at 90 degrees. Hold this position.",
+    "videoUrl": "https://youtu.be/fobiVgoeeZA",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "4-12-6",
+    "kaluli": "0.2",
+    "mankaluli": 0.2,
+    "womankaluli": 0.2,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6"
+      ],
+      "muscle_minor": [
+        "3",
+        "7"
+      ],
+      "musclepart_major": [
+        "3"
+      ],
+      "musclepart_minor": [
+        "4",
+        "2",
+        "22"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/265/attrs/5/data/data",
+      "text_en": "assets/workout/actions/265/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "266",
+    "name": "DOORWAY CURLS LEFT",
+    "introduce": "Stand in a doorway. Grasp the doorframe using your left hand, and put your feet close to the bottom of the door. \\n\\nExtend your left arm and lean back, then pull at the doorframe and come back to the starting position. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/134v7cB-1W8",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 1,
+    "classid": 13,
+    "muscle": "4-9",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "5",
+      "muscle_major": [
+        "4"
+      ],
+      "muscle_minor": [
+        "5"
+      ],
+      "musclepart_major": [
+        "19"
+      ],
+      "musclepart_minor": [
+        "20",
+        "21",
+        "28"
+      ],
+      "work_part": [
+        "1"
+      ],
+      "muscle_tag": [
+        "19"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/266/attrs/7/data/data",
+      "text_en": "assets/workout/actions/266/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "267",
+    "name": "DOORWAY CURLS RIGHT",
+    "introduce": "Stand in a doorway. Grasp the doorframe using your right hand, and put your feet close to the bottom of the door. \\n\\nExtend your right arm and lean back, then pull at the doorframe and come back to the starting position. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/134v7cB-1W8",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 1,
+    "classid": 13,
+    "muscle": "4-9",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "5",
+      "muscle_major": [
+        "4"
+      ],
+      "muscle_minor": [
+        "5"
+      ],
+      "musclepart_major": [
+        "19"
+      ],
+      "musclepart_minor": [
+        "20",
+        "21",
+        "28"
+      ],
+      "work_part": [
+        "1"
+      ],
+      "muscle_tag": [
+        "19"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/267/attrs/7/data/data",
+      "text_en": "assets/workout/actions/267/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "268",
+    "name": "STANDING BICEPS STRETCH LEFT",
+    "introduce": "Stand with your left arm close to a wall. Extend your left arm and put your left hand on the wall, then gently turn your body to the right.",
+    "videoUrl": "https://youtu.be/jw8EXo5h0ec",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "4-9-5",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "4",
+        "7"
+      ],
+      "muscle_minor": [
+        "5"
+      ],
+      "musclepart_major": [
+        "18",
+        "4"
+      ],
+      "musclepart_minor": [
+        "27"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/268/attrs/6/data/data",
+      "text_en": "assets/workout/actions/268/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "269",
+    "name": "STANDING BICEPS STRETCH RIGHT",
+    "introduce": "Stand with your right arm close to a wall. Extend your right arm and put your right hand on the wall, then gently turn your body to the left.",
+    "videoUrl": "https://youtu.be/jw8EXo5h0ec",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "4-9-5",
+    "kaluli": "0.15",
+    "mankaluli": 0.15,
+    "womankaluli": 0.15,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "4",
+        "7"
+      ],
+      "muscle_minor": [
+        "5"
+      ],
+      "musclepart_major": [
+        "18",
+        "4"
+      ],
+      "musclepart_minor": [
+        "27"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/269/attrs/6/data/data",
+      "text_en": "assets/workout/actions/269/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "270",
+    "name": "ARM CURLS CRUNCH LEFT",
+    "introduce": "Lie on your left side with your knees bent and lifted. Grasp your left thigh with your left hand and put your right hand behind your head. \\n\\nThen raise your upper body by pulling your left thigh. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/pxsOe8MJq68",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "4-9",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "5",
+      "muscle_major": [
+        "4"
+      ],
+      "muscle_minor": [
+        "5",
+        "1"
+      ],
+      "musclepart_major": [
+        "20"
+      ],
+      "musclepart_minor": [
+        "19",
+        "21",
+        "28",
+        "15",
+        "16"
+      ],
+      "work_part": [
+        "1"
+      ],
+      "muscle_tag": [
+        "19"
+      ],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/270/attrs/8/data/data",
+      "text_en": "assets/workout/actions/270/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "271",
+    "name": "ARM CURLS CRUNCH RIGHT",
+    "introduce": "Lie on your right side with your knees bent and lifted. Grasp your right thigh with your right hand and put your left hand behind your head. \\n\\nThen raise your upper body by pulling your right thigh. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/pxsOe8MJq68",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "4-9",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "5",
+      "muscle_major": [
+        "4"
+      ],
+      "muscle_minor": [
+        "5",
+        "1"
+      ],
+      "musclepart_major": [
+        "20"
+      ],
+      "musclepart_minor": [
+        "19",
+        "21",
+        "28",
+        "15",
+        "16"
+      ],
+      "work_part": [
+        "1"
+      ],
+      "muscle_tag": [
+        "19"
+      ],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/271/attrs/7/data/data",
+      "text_en": "assets/workout/actions/271/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "272",
+    "name": "LEG BARBELL CURL LEFT",
+    "introduce": "Stand against a wall. Lift your right leg up, lean forward and grab underneath your right ankle with your left hand. \\n\\nBring the ankle up towards the shoulder as much as you can, then lower it and repeat the exercise.",
+    "videoUrl": "https://youtu.be/3kZS8HVFquk",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "4-9",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "5",
+      "muscle_major": [
+        "4"
+      ],
+      "muscle_minor": [
+        "5"
+      ],
+      "musclepart_major": [
+        "21"
+      ],
+      "musclepart_minor": [
+        "20",
+        "19",
+        "28"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/272/attrs/5/data/data",
+      "text_en": "assets/workout/actions/272/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "273",
+    "name": "LEG BARBELL CURL RIGHT",
+    "introduce": "Stand against a wall. Lift your left leg up, lean forward and grab underneath your left ankle with your right hand. \\n\\nBring the ankle up towards the shoulder as much as you can, then lower it and repeat the exercise.",
+    "videoUrl": "https://youtu.be/3kZS8HVFquk",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "4-9",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "5",
+      "muscle_major": [
+        "4"
+      ],
+      "muscle_minor": [
+        "5"
+      ],
+      "musclepart_major": [
+        "21"
+      ],
+      "musclepart_minor": [
+        "20",
+        "19",
+        "28"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/273/attrs/5/data/data",
+      "text_en": "assets/workout/actions/273/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "274",
+    "name": "MILITARY PUSH UPS",
+    "introduce": "Start in a push-up position with your hands directly under your shoulders and feet no more than 12 inches apart. \\n\\nBend your elbows and lower your body until your upper arms are parallel to the floor. Stay in this position for one second and then push your body back to the starting position and repeat the exercise. Please remember that your elbows should be close to your body during this exercise.",
+    "videoUrl": "https://youtu.be/H8LoGZ-ZN48",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "4-12",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6",
+        "3"
+      ],
+      "muscle_minor": [
+        "7"
+      ],
+      "musclepart_major": [
+        "3",
+        "22"
+      ],
+      "musclepart_minor": [
+        "2",
+        "4"
+      ],
+      "work_part": [
+        "4",
+        "1"
+      ],
+      "muscle_tag": [
+        "20"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/274/attrs/7/data/data",
+      "text_en": "assets/workout/actions/274/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "275",
+    "name": "SKIPPING WITHOUT ROPE",
+    "introduce": "Place your arms at your sides and pretend to hold a skipping rope handle in each hand. \\n\\nJump and alternately land on the balls of your feet, rotating your wrists at the same time as if you were spinning a rope.",
+    "videoUrl": "https://youtu.be/CYGeazlNbU4",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 6,
+    "muscle": "2-15-4-13",
+    "kaluli": "0.42",
+    "mankaluli": 0.52,
+    "womankaluli": 0.52,
+    "customfields": {
+      "type_tag": "45",
+      "muscle_major": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "29",
+        "32",
+        "33",
+        "35",
+        "36"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/275/attrs/5/data/data",
+      "text_en": "assets/workout/actions/275/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "285",
+    "name": "JUMPING PUSH-UPS",
+    "introduce": "Lay prone on the ground with your elbows bent, palms and feet supporting your body.\\n\\nPush your body up into the air and your hands leave the ground, while keeping your feet on the ground, then lower your body to the starting position. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/SdP5TSgRHPc",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "4",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "4-12-18",
+    "kaluli": "0.2",
+    "mankaluli": 0.28,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6"
+      ],
+      "muscle_minor": [
+        "4",
+        "7",
+        "3",
+        "5"
+      ],
+      "musclepart_major": [
+        "3"
+      ],
+      "musclepart_minor": [
+        "18",
+        "4",
+        "2",
+        "22",
+        "27"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/285/attrs/5/data/data",
+      "text_en": "assets/workout/actions/285/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "287",
+    "name": "ELBOWS BACK",
+    "introduce": "Stand up straight with your feet shoulder-width apart. Place your hands on both sides of your waist, fingers facing downwards and elbows facing outwards.\\n\\nGently pull your elbows backward, then bring them back to the starting position. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/rhtadqkrWo0",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 8,
+    "muscle": "17-26",
+    "kaluli": "0.15",
+    "mankaluli": 0.6,
+    "womankaluli": 0.6,
+    "customfields": {
+      "type_tag": "51",
+      "muscle_major": [
+        "6",
+        "7",
+        "2"
+      ],
+      "muscle_minor": [
+        "12"
+      ],
+      "musclepart_major": [
+        "2",
+        "3",
+        "4",
+        "11",
+        "13"
+      ],
+      "musclepart_minor": [
+        "9",
+        "10"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/287/attrs/5/data/data",
+      "text_en": "assets/workout/actions/287/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "301",
+    "name": "FLOOR SLIDES",
+    "introduce": "Lie on your back with knees bent and feet flat on the floor. \\n\\nPut your arms straight over your head. \\n\\nSlide your forearms down at 90 degree angles, then slide them up. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/Cft0lko4M4s",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 13,
+    "muscle": "16",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.8,
+    "customfields": {
+      "type_tag": "22",
+      "muscle_major": [
+        "7"
+      ],
+      "muscle_minor": [
+        "12",
+        "2"
+      ],
+      "musclepart_major": [
+        "4",
+        "5"
+      ],
+      "musclepart_minor": [
+        "17",
+        "9",
+        "10",
+        "14"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/301/attrs/6/data/data",
+      "text_en": "assets/workout/actions/301/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "312",
+    "name": "WINDSHIELD WIPERS",
+    "introduce": "Lie on your back with your legs straight and lifted at a 90 degree angle. Extend your arms to the sides with palms down. \\n\\nTwist your legs to the left while keeping your upper body in place and your feet together. Then return and twist to the other side. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/fNf_IfTAVD0",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-11",
+    "kaluli": "0.28",
+    "mankaluli": 1.12,
+    "womankaluli": 1.12,
+    "customfields": {
+      "type_tag": "43",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "16"
+      ],
+      "musclepart_minor": [],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "11",
+        "9"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/312/attrs/7/data/data",
+      "text_en": "assets/workout/actions/312/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "358",
+    "name": "FAST SPIDER LUNGES",
+    "introduce": "Start with your hands under your shoulders, your left leg bent and next to the outside of your left arm and your right leg stretched behind you. Then jump and switch legs in the air.",
+    "videoUrl": "https://youtu.be/M_OoFzysWak",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 12,
+    "muscle": "2-14",
+    "kaluli": "0.22",
+    "mankaluli": 0.52,
+    "womankaluli": 0.52,
+    "customfields": {
+      "type_tag": "29",
+      "muscle_major": [
+        "8",
+        "9",
+        "10",
+        "16"
+      ],
+      "muscle_minor": [
+        "11"
+      ],
+      "musclepart_major": [
+        "29",
+        "32",
+        "33",
+        "34"
+      ],
+      "musclepart_minor": [
+        "35",
+        "36"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/358/attrs/6/data/data",
+      "text_en": "assets/workout/actions/358/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "369",
+    "name": "BACK BOW PULLS",
+    "introduce": "Lie on your stomach with your legs straight and your arms raised and extended overhead. \\n\\nBend your elbows and pull them down to your sides. Return to the starting position and repeat.",
+    "videoUrl": "https://youtu.be/GvyCtKvmaVE",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 1,
+    "classid": 13,
+    "muscle": "4-13-16-18-17",
+    "kaluli": "0.2",
+    "mankaluli": 0.4,
+    "womankaluli": 0.4,
+    "customfields": {
+      "type_tag": "30",
+      "muscle_major": [
+        "2",
+        "7"
+      ],
+      "muscle_minor": [
+        "12"
+      ],
+      "musclepart_major": [
+        "11",
+        "6",
+        "13"
+      ],
+      "musclepart_minor": [
+        "8",
+        "9",
+        "10",
+        "14"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/369/attrs/5/data/data",
+      "text_en": "assets/workout/actions/369/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "378",
+    "name": "PLANK HIP DIPS",
+    "introduce": "Start in a standard plank position. \\n\\nTwist your spine to your left side until your left leg touches the floor, then twist to the other side. \\n\\nRepeat the exercise.",
+    "videoUrl": "https://youtu.be/h1_Y3GBUd0M",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-11-8",
+    "kaluli": "0.28",
+    "mankaluli": 1.12,
+    "womankaluli": 1.12,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1",
+        "8",
+        "13"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "15",
+        "16",
+        "29",
+        "30",
+        "31",
+        "12"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/378/attrs/6/data/data",
+      "text_en": "assets/workout/actions/378/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "407",
+    "name": "IN & OUTS",
+    "introduce": "Lay prone on the ground with arms supporting your body. Hop forward, bring your knees toward your chest, then hop back to the starting position. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/clsucWwp5Oc",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 6,
+    "muscle": "1-2-14",
+    "kaluli": "0.42",
+    "mankaluli": 0.58,
+    "womankaluli": 0.58,
+    "customfields": {
+      "type_tag": "29",
+      "muscle_major": [
+        "1",
+        "8",
+        "9",
+        "10"
+      ],
+      "muscle_minor": [
+        "11",
+        "7"
+      ],
+      "musclepart_major": [
+        "15",
+        "16",
+        "29",
+        "32",
+        "33"
+      ],
+      "musclepart_minor": [
+        "35",
+        "36",
+        "4"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/407/attrs/5/data/data",
+      "text_en": "assets/workout/actions/407/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "411",
+    "name": "SWIMMER AND SUPERMAN",
+    "introduce": "Lie on your stomach with your arms extended straight overhead. Alternately lift your opposite arm and leg.",
+    "videoUrl": "https://youtu.be/XydDDn_Rngw",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 10,
+    "muscle": "1-2-14-4-18-16-17",
+    "kaluli": "0.28",
+    "mankaluli": 1.12,
+    "womankaluli": 1.12,
+    "customfields": {
+      "type_tag": "3",
+      "muscle_major": [
+        "2",
+        "8",
+        "10"
+      ],
+      "muscle_minor": [
+        "7"
+      ],
+      "musclepart_major": [
+        "12",
+        "29",
+        "33"
+      ],
+      "musclepart_minor": [
+        "6"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/411/attrs/7/data/data",
+      "text_en": "assets/workout/actions/411/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "445",
+    "name": "OBLIQUE CROSSOVER CRUNCH LEFT",
+    "introduce": "Lie on your back with your feet flat on the floor. Put your left ankle on your right knee, right hand behind your ear and left arm extend to the side on the floor. \\n\\nLift your shoulders off the floor, bring your right elbow to meet your left knee, and left arm close to your body, then slowly return. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/LATqsI5q0hc",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-11",
+    "kaluli": "0.28",
+    "mankaluli": 0.56,
+    "womankaluli": 0.56,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "16"
+      ],
+      "musclepart_minor": [
+        "15"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/445/attrs/5/data/data",
+      "text_en": "assets/workout/actions/445/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "446",
+    "name": "OBLIQUE CROSSOVER CRUNCH RIGHT",
+    "introduce": "Lie on your back with your feet flat on the floor. Put your right ankle on your left knee, left hand behind your ear and right arm extend to the side on the floor. \\n\\nLift your shoulders off the floor, bring your left elbow to meet your right knee, and right arm close to your body, then slowly return. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/LATqsI5q0hc",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-11",
+    "kaluli": "0.28",
+    "mankaluli": 0.56,
+    "womankaluli": 0.56,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "16"
+      ],
+      "musclepart_minor": [
+        "15"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/446/attrs/5/data/data",
+      "text_en": "assets/workout/actions/446/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "451",
+    "name": "MOUNTAIN CLIMBER",
+    "introduce": "Start in the push-up position. Bend your right knee towards your chest and keep your left leg straight, then quickly switch from one leg to the other. \\n\\nThis exercise strengthens multiple muscle groups.",
+    "videoUrl": "https://youtu.be/wQq3ybaLZeA",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 6,
+    "muscle": "0-10-2-14",
+    "kaluli": "0.42",
+    "mankaluli": 0.68,
+    "womankaluli": 0.68,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1",
+        "8",
+        "13",
+        "9",
+        "11"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "15",
+        "29",
+        "32",
+        "12"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/451/attrs/6/data/data",
+      "text_en": "assets/workout/actions/451/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "454",
+    "name": "KNEE PLANK",
+    "introduce": "Perform the traditional plank position but with your knees on the ground and your feet crossed in the air. \\n\\nKeep your spine straight. Hold this position.",
+    "videoUrl": "https://www.youtube.com/watch?v=vMbKA20esfk",
+    "videoDomain": "www.youtube.com",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-25",
+    "kaluli": "0.28",
+    "mankaluli": 0.28,
+    "womankaluli": 0.28,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "8"
+      ],
+      "musclepart_major": [
+        "15"
+      ],
+      "musclepart_minor": [
+        "16",
+        "29",
+        "17"
+      ],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "8"
+      ],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/454/attrs/6/data/data",
+      "text_en": "assets/workout/actions/454/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "476",
+    "name": "PUSH UP HOLD",
+    "introduce": "Lay prone on the ground with your arms supporting your body. \\n\\nBend your arms and lower your body until your upper arms are parallel to the floor. \\n\\nKeep your body straight. Hold this position.\\n\\nDon't hold your breath. Breathe normally from your abdomen instead of your chest.",
+    "videoUrl": "https://www.youtube.com/watch?v=6uqI7pAmdy8",
+    "videoDomain": "www.youtube.com",
+    "unit": "s",
+    "levelid": "4",
+    "etype": 1,
+    "strength": 2,
+    "classid": 13,
+    "muscle": "4-12-25",
+    "kaluli": "0.2",
+    "mankaluli": 0.2,
+    "womankaluli": 0.2,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6"
+      ],
+      "muscle_minor": [
+        "3",
+        "7"
+      ],
+      "musclepart_major": [
+        "3"
+      ],
+      "musclepart_minor": [
+        "4",
+        "2",
+        "22"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/476/attrs/4/data/data",
+      "text_en": "assets/workout/actions/476/text/5/data/en"
+    }
+  },
+  {
+    "action_id": "493",
+    "name": "FROG PUMP",
+    "introduce": "Lie on your back with your legs bent and feet together. \\n\\nBend your elbows at your sides, and dig them into the ground for support. \\n\\nSpread your knees to your sides and lift your hips up and down.",
+    "videoUrl": "https://www.youtube.com/watch?v=MQ62r2V7Lw8",
+    "videoDomain": "www.youtube.com",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 11,
+    "muscle": "1-2-14",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "20",
+      "muscle_major": [
+        "8"
+      ],
+      "muscle_minor": [
+        "10"
+      ],
+      "musclepart_major": [
+        "29",
+        "30",
+        "31"
+      ],
+      "musclepart_minor": [
+        "33"
+      ],
+      "work_part": [
+        "6",
+        "7"
+      ],
+      "muscle_tag": [
+        "1",
+        "2",
+        "5"
+      ],
+      "classic": 1,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/493/attrs/6/data/data",
+      "text_en": "assets/workout/actions/493/text/4/data/en"
+    }
+  },
+  {
+    "action_id": "495",
+    "name": "SPIDERMAN PLANK",
+    "introduce": "Lie on the floor with your toes and forearms on the ground. Keep your body straight. \\n\\nBend your left knee and bring it to the outside of your left arm. Return to the starting position and repeat with the other leg.",
+    "videoUrl": "https://youtu.be/G8-vocJfWEM",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-11",
+    "kaluli": "0.28",
+    "mankaluli": 1.12,
+    "womankaluli": 1.12,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1",
+        "8",
+        "9",
+        "16"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "15",
+        "16",
+        "29",
+        "30",
+        "31",
+        "32",
+        "34"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/495/attrs/8/data/data",
+      "text_en": "assets/workout/actions/495/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "541",
+    "name": "LEG IN & OUTS",
+    "introduce": "Sit down with your hands behind you on the ground, your legs extended and your upper body leaning backward. \\n\\nBend your knees, and bring them toward your chest; then fully extend your legs without touching the ground. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/V1wZc9RwPW8",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "2",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-30",
+    "kaluli": "0.28",
+    "mankaluli": 0.56,
+    "womankaluli": 0.56,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1",
+        "9"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "15",
+        "32"
+      ],
+      "musclepart_minor": [
+        "16"
+      ],
+      "work_part": [
+        "5"
+      ],
+      "muscle_tag": [
+        "8"
+      ],
+      "classic": 1,
+      "move_popular": 1,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/541/attrs/7/data/data",
+      "text_en": "assets/workout/actions/541/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "554",
+    "name": "BACK ARCHES",
+    "introduce": "Sit straight in the chair with your feet flat on the floor. \\n\\nThen lift your arms overhead and stretch your chest out. When you exhale, lower your arms until they\\'re parallel to the floor. \\n\\nRepeat the exercise.",
+    "videoUrl": "https://www.youtube.com/watch?v=BdfTuxdfIE8&t=1m40s",
+    "videoDomain": "www.youtube.com",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 8,
+    "muscle": "16-18",
+    "kaluli": "0.02",
+    "mankaluli": 0.04,
+    "womankaluli": 0.04,
+    "customfields": {
+      "type_tag": "52",
+      "muscle_major": [
+        "2",
+        "7"
+      ],
+      "muscle_minor": [
+        "12"
+      ],
+      "musclepart_major": [
+        "11",
+        "4"
+      ],
+      "musclepart_minor": [
+        "9",
+        "10",
+        "14"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/554/attrs/4/data/data",
+      "text_en": "assets/workout/actions/554/text/2/data/en"
+    }
+  },
+  {
+    "action_id": "562",
+    "name": "BENT KNEE SIDE HIP RAISES RIGHT",
+    "introduce": "Lie on your left side with your elbow down the floor and your knees bent. Place your right hand on your hips. \\n\\nLift your hips up as high as you can, then drop them down without touching the floor. \\n\\nRepeat the exercise.",
+    "videoUrl": "https://youtu.be/y1SrmOgVJ8I",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 11,
+    "muscle": "1-25",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "8",
+        "13"
+      ],
+      "musclepart_major": [
+        "16"
+      ],
+      "musclepart_minor": [
+        "30",
+        "31",
+        "34",
+        "17"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/562/attrs/5/data/data",
+      "text_en": "assets/workout/actions/562/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "563",
+    "name": "BENT KNEE SIDE HIP RAISES LEFT",
+    "introduce": "Lie on your right side with your elbow down the floor and your knees bent. Place your left hand on your hips. \\n\\nLift your hips up as high as you can, then drop them down without touching the floor. \\n\\nRepeat the exercise.",
+    "videoUrl": "https://youtu.be/y1SrmOgVJ8I",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 11,
+    "muscle": "1-25",
+    "kaluli": "0.22",
+    "mankaluli": 0.44,
+    "womankaluli": 0.44,
+    "customfields": {
+      "type_tag": "28",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [
+        "8",
+        "13"
+      ],
+      "musclepart_major": [
+        "16"
+      ],
+      "musclepart_minor": [
+        "30",
+        "31",
+        "34",
+        "17"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/563/attrs/5/data/data",
+      "text_en": "assets/workout/actions/563/text/3/data/en"
+    }
+  },
+  {
+    "action_id": "565",
+    "name": "STARFISH CRUNCH",
+    "introduce": "Lie on your back with your hands stretched out to your sides. Keep your legs apart with your feet wider than shoulder width apart. \\n\\nRaise your left leg up, slightly lift your shoulders off the floor, and reach your right hand to touch the left foot. \\n\\nReturn to the starting position, and repeat with the other side.",
+    "videoUrl": "https://youtu.be/CoTLqNsivCI",
+    "videoDomain": "youtu.be",
+    "unit": "s",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 2,
+    "classid": 10,
+    "muscle": "0-10-11",
+    "kaluli": "0.28",
+    "mankaluli": 1.12,
+    "womankaluli": 1.12,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1",
+        "9"
+      ],
+      "muscle_minor": [
+        "2",
+        "11"
+      ],
+      "musclepart_major": [
+        "15",
+        "16",
+        "32"
+      ],
+      "musclepart_minor": [
+        "11",
+        "35",
+        "36"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/565/attrs/5/data/data",
+      "text_en": "assets/workout/actions/565/text/4/data/en"
+    }
+  },
+  {
+    "action_id": "588",
+    "name": "STANDING OBLIQUE CRUNCHES LEFT",
+    "introduce": "Stand with your left hand lifted overhead and right hand on your waist. \\n\\nBring your left elbow and left knee to meet each other. Stretch out and repeat.",
+    "videoUrl": "https://youtu.be/wD2GY3fUJqQ",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 10,
+    "muscle": "0-10-11",
+    "kaluli": "0.28",
+    "mankaluli": 0.56,
+    "womankaluli": 0.56,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "16"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/588/attrs/5/data/data",
+      "text_en": "assets/workout/actions/588/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "589",
+    "name": "STANDING OBLIQUE CRUNCHES RIGHT",
+    "introduce": "Stand with your right hand lifted overhead and left hand on your waist. \\n\\nBring your right elbow and right knee to meet each other. Stretch out and repeat.",
+    "videoUrl": "https://youtu.be/wD2GY3fUJqQ",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "1",
+    "etype": 1,
+    "strength": 1,
+    "classid": 10,
+    "muscle": "0-10-11",
+    "kaluli": "0.28",
+    "mankaluli": 0.56,
+    "womankaluli": 0.56,
+    "customfields": {
+      "type_tag": "11",
+      "muscle_major": [
+        "1"
+      ],
+      "muscle_minor": [],
+      "musclepart_major": [
+        "16"
+      ],
+      "musclepart_minor": [],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/589/attrs/5/data/data",
+      "text_en": "assets/workout/actions/589/text/1/data/en"
+    }
+  },
+  {
+    "action_id": "787",
+    "name": "OFFSET PUSH-UPS",
+    "introduce": "Start in a push-up position with one hand on the ground and the other hand elevated on a platform or something similar. \\n\\nPerform a push-up, then step over with your hands and switch sides. Repeat the exercise.",
+    "videoUrl": "https://youtu.be/32yYCbAQo5A",
+    "videoDomain": "youtu.be",
+    "unit": "",
+    "levelid": "3",
+    "etype": 1,
+    "strength": 2,
+    "classid": 14,
+    "muscle": "0-10-3-31-32-33-34-35-16-18-28-29",
+    "kaluli": "0.2",
+    "mankaluli": 1.6,
+    "womankaluli": 1.6,
+    "customfields": {
+      "type_tag": "34",
+      "muscle_major": [
+        "6"
+      ],
+      "muscle_minor": [
+        "7",
+        "1",
+        "3"
+      ],
+      "musclepart_major": [
+        "2",
+        "3"
+      ],
+      "musclepart_minor": [
+        "4",
+        "16",
+        "22"
+      ],
+      "work_part": [],
+      "muscle_tag": [],
+      "classic": 2,
+      "move_popular": 2,
+      "oneside": 2
+    },
+    "source": {
+      "attrs": "assets/workout/actions/787/attrs/7/data/data",
+      "text_en": "assets/workout/actions/787/text/6/data/en"
+    }
+  }
+]

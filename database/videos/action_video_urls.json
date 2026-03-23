@@ -1,0 +1,980 @@
+[
+  {
+    "action_id": "0",
+    "name": "ABDOMINAL CRUNCHES",
+    "videoUrl": "https://youtu.be/RUNrHkbP4Pc",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "1",
+    "name": "LEG RAISES",
+    "videoUrl": "https://youtu.be/dGKbTKLnym4",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "2",
+    "name": "SIT-UPS",
+    "videoUrl": "https://youtu.be/swOyWKk7Oko",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "3",
+    "name": "PLANK",
+    "videoUrl": "https://youtu.be/Fcbw82ykBvY",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "4",
+    "name": "REVERSE CRUNCHES",
+    "videoUrl": "https://youtu.be/UwRfRN5fYRg",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "7",
+    "name": "RUSSIAN TWIST",
+    "videoUrl": "https://youtu.be/DJQGX2J4IVw",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "8",
+    "name": "BICYCLE CRUNCHES",
+    "videoUrl": "https://youtu.be/-nJkAJpQemI",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "12",
+    "name": "MOUNTAIN CLIMBER",
+    "videoUrl": "https://youtu.be/wQq3ybaLZeA",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "15",
+    "name": "JUMPING JACKS",
+    "videoUrl": "https://youtu.be/2W4ZNSwoW_4",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "17",
+    "name": "WALL PUSH-UPS",
+    "videoUrl": "https://youtu.be/EOf3cGIQpA4",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "18",
+    "name": "TRICEPS DIPS",
+    "videoUrl": "https://youtu.be/JhX1nBnirNw",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "20",
+    "name": "PUSH-UPS",
+    "videoUrl": "https://youtu.be/R08gYyypGto",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "21",
+    "name": "SQUATS",
+    "videoUrl": "https://youtu.be/42bFodPahBU",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "22",
+    "name": "SIDE LUNGES",
+    "videoUrl": "https://youtu.be/tlUg1DXhHm8",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "23",
+    "name": "PUSH-UP & ROTATION",
+    "videoUrl": "https://youtu.be/Plv5CIclPtQ",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "24",
+    "name": "LUNGES",
+    "videoUrl": "https://youtu.be/1J8mVmtyYpk",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "25",
+    "name": "WIDE ARM PUSH-UPS",
+    "videoUrl": "https://youtu.be/pQUsUHvyoI0",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "26",
+    "name": "BURPEES",
+    "videoUrl": "https://youtu.be/818SkLAPyKY",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "27",
+    "name": "CURTSY LUNGES",
+    "videoUrl": "https://youtu.be/-rTyKlHjYT8",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "28",
+    "name": "INCLINE PUSH-UPS",
+    "videoUrl": "https://youtu.be/3WUUeM07i_Q",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "29",
+    "name": "SIDE PLANK RIGHT",
+    "videoUrl": "https://youtu.be/2W96p2PIoPg",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "30",
+    "name": "DIAMOND PUSH-UPS",
+    "videoUrl": "https://youtu.be/UCmqw3kKZ38",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "31",
+    "name": "SPLIT SQUAT RIGHT",
+    "videoUrl": "https://youtu.be/SFSZVKzqnXA",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "32",
+    "name": "SPLIT SQUAT LEFT",
+    "videoUrl": "https://youtu.be/SFSZVKzqnXA",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "33",
+    "name": "HIGH STEPPING",
+    "videoUrl": "https://youtu.be/Cmxr9xcNhgU",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "34",
+    "name": "KNEE PUSH-UPS",
+    "videoUrl": "https://youtu.be/jWxvty2KROs",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "35",
+    "name": "SIDE PLANK LEFT",
+    "videoUrl": "https://youtu.be/2W96p2PIoPg",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "36",
+    "name": "WALL SIT",
+    "videoUrl": "https://youtu.be/Yp3ZwACK9v4",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "39",
+    "name": "DECLINE PUSH-UPS",
+    "videoUrl": "https://youtu.be/OjPfLfLsw3c",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "40",
+    "name": "JUMPING SQUATS",
+    "videoUrl": "https://youtu.be/txLE-jOCEsc",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "42",
+    "name": "STAGGERED PUSH-UPS",
+    "videoUrl": "https://youtu.be/JWNTTiAQMhc",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "43",
+    "name": "BACKWARD LUNGE WITH FRONT KICK RIGHT",
+    "videoUrl": "https://youtu.be/g7pZDrp0IdU",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "44",
+    "name": "BACKWARD LUNGE WITH FRONT KICK LEFT",
+    "videoUrl": "https://youtu.be/g7pZDrp0IdU",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "45",
+    "name": "SPIDERMAN PUSH-UPS",
+    "videoUrl": "https://youtu.be/YmonBKorAIw",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "46",
+    "name": "HINDU PUSH-UPS",
+    "videoUrl": "https://youtu.be/HE0ijmUc6Og",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "47",
+    "name": "DONKEY KICKS RIGHT",
+    "videoUrl": "https://youtu.be/4ranVQDqlaU",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "48",
+    "name": "BUTT BRIDGE",
+    "videoUrl": "https://youtu.be/9qo48CYN06w",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "49",
+    "name": "DONKEY KICKS LEFT",
+    "videoUrl": "https://youtu.be/4ranVQDqlaU",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "50",
+    "name": "FIRE HYDRANT RIGHT",
+    "videoUrl": "https://youtu.be/7LnuhLi-78I",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "51",
+    "name": "FIRE HYDRANT LEFT",
+    "videoUrl": "https://youtu.be/7LnuhLi-78I",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "52",
+    "name": "FROGGY GLUTE LIFTS",
+    "videoUrl": "https://youtu.be/wl10q6aqy-4",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "53",
+    "name": "REVERSE FLUTTER KICKS",
+    "videoUrl": "https://youtu.be/UsO66ZUvzb0",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "55",
+    "name": "PLIE SQUATS",
+    "videoUrl": "https://youtu.be/XEKiRnwBfYA",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "61",
+    "name": "ARM CIRCLES",
+    "videoUrl": "https://youtu.be/h6GkzSA5tTc",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "62",
+    "name": "PUNCHES",
+    "videoUrl": "https://youtu.be/reeBHtZJ1ts",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "63",
+    "name": "FLOOR TRICEP DIPS",
+    "videoUrl": "https://youtu.be/geNkbcZ6qDo",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "64",
+    "name": "ARM RAISES",
+    "videoUrl": "https://youtu.be/Bqvmyni_sKQ",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "65",
+    "name": "CHEST PRESS PULSE",
+    "videoUrl": "https://youtu.be/Fz4oo1vFo9M",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "66",
+    "name": "DIAGONAL PLANK",
+    "videoUrl": "https://youtu.be/OGfFtF-dhrk",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "67",
+    "name": "REVERSE PUSH-UPS",
+    "videoUrl": "https://youtu.be/XRpbVcpx-Yc",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "69",
+    "name": "BOX PUSH-UPS",
+    "videoUrl": "https://youtu.be/dcJVA2sBPqw",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "70",
+    "name": "SIDE-LYING LEG LIFT RIGHT",
+    "videoUrl": "https://youtu.be/VlwBJE1WtOQ",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "73",
+    "name": "SINGLE RIGHT LEG CALF RAISES",
+    "videoUrl": "https://youtu.be/xVb3rW0a7Fw",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "74",
+    "name": "SINGLE LEFT LEG CALF RAISES",
+    "videoUrl": "https://youtu.be/xVb3rW0a7Fw",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "75",
+    "name": "BULGARIAN SPLIT SQUAT LEFT",
+    "videoUrl": "https://youtu.be/Brh1SHAkknI",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "76",
+    "name": "BOTTOM LEG LIFT RIGHT",
+    "videoUrl": "https://youtu.be/Dm1GSX1vItY",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "78",
+    "name": "BOTTOM LEG LIFT LEFT",
+    "videoUrl": "https://youtu.be/Dm1GSX1vItY",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "80",
+    "name": "SIDE LEG CIRCLES LEFT",
+    "videoUrl": "https://youtu.be/VgysBPnVJWg",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "82",
+    "name": "SIDE-LYING LEG LIFT LEFT",
+    "videoUrl": "https://youtu.be/VlwBJE1WtOQ",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "83",
+    "name": "SIDE LEG CIRCLES RIGHT",
+    "videoUrl": "https://youtu.be/VgysBPnVJWg",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "85",
+    "name": "BULGARIAN SPLIT SQUAT RIGHT",
+    "videoUrl": "https://youtu.be/Brh1SHAkknI",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "87",
+    "name": "SIDE HOP",
+    "videoUrl": "https://youtu.be/nYmUEJIBj3c",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "88",
+    "name": "BACKWARD LUNGE",
+    "videoUrl": "https://youtu.be/_LGpDtENZ5U",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "90",
+    "name": "PLANK LEG UP",
+    "videoUrl": "https://youtu.be/O9j5_BriCW4",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "91",
+    "name": "GLUTE KICK BACK LEFT",
+    "videoUrl": "https://youtu.be/D4gxkgZQkAg",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "92",
+    "name": "GLUTE KICK BACK RIGHT",
+    "videoUrl": "https://youtu.be/D4gxkgZQkAg",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "120",
+    "name": "INCHWORMS",
+    "videoUrl": "https://youtu.be/ZY2ji_Ho0dA",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "124",
+    "name": "CROSSOVER CRUNCH",
+    "videoUrl": "https://youtu.be/q2_KHKE5CDE",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "125",
+    "name": "FLUTTER KICKS",
+    "videoUrl": "https://youtu.be/K5wuM_gNWyw",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "127",
+    "name": "HEEL TOUCH",
+    "videoUrl": "https://youtu.be/9bR-elyolBQ",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "128",
+    "name": "SIDE ARM RAISE",
+    "videoUrl": "https://youtu.be/YslHgg2E-Ro",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "129",
+    "name": "ADDUCTOR STRETCH IN STANDING",
+    "videoUrl": "https://youtu.be/MjFb2MyaNjs",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "136",
+    "name": "ARM CIRCLES COUNTERCLOCKWISE",
+    "videoUrl": "https://youtu.be/Lha66p0ZXUc",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "141",
+    "name": "CAT COW POSE",
+    "videoUrl": "https://youtu.be/w_UKcI1Ftn8",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "143",
+    "name": "CHEST STRETCH",
+    "videoUrl": "https://youtu.be/NS64IgKUyeY",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "144",
+    "name": "CHILD'S POSE",
+    "videoUrl": "https://youtu.be/DMwRPGMPB10",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "155",
+    "name": "SHOULDER STRETCH",
+    "videoUrl": "https://youtu.be/9k0EN2RCGgU",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "168",
+    "name": "SWIMMER AND SUPERMAN",
+    "videoUrl": "https://youtu.be/XydDDn_Rngw",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "173",
+    "name": "SIDE LEG RAISE LEFT",
+    "videoUrl": "https://youtu.be/Z_0p0I8B4EU",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "174",
+    "name": "SIDE LEG RAISE RIGHT",
+    "videoUrl": "https://youtu.be/Z_0p0I8B4EU",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "178",
+    "name": "RECLINED OBLIQUE TWIST",
+    "videoUrl": "https://youtu.be/XKW5jru5pGo",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "179",
+    "name": "SIDE BRIDGES LEFT",
+    "videoUrl": "https://youtu.be/7ytbYd4CK3o",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "180",
+    "name": "SIDE BRIDGES RIGHT",
+    "videoUrl": "https://youtu.be/7ytbYd4CK3o",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "181",
+    "name": "SIDE-LYING FLOOR STRETCH LEFT",
+    "videoUrl": "https://youtu.be/DMlSdmsHEeI",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "182",
+    "name": "SIDE-LYING FLOOR STRETCH RIGHT",
+    "videoUrl": "https://youtu.be/DMlSdmsHEeI",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "183",
+    "name": "HYPEREXTENSION",
+    "videoUrl": "https://youtu.be/W9y8xq4Ya_E",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "184",
+    "name": "RECLINED RHOMBOID SQUEEZES",
+    "videoUrl": "https://youtu.be/olv2Sv9DwmA",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "185",
+    "name": "RHOMBOID PULLS",
+    "videoUrl": "https://youtu.be/DEyDbzSudEU",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "186",
+    "name": "PRONE TRICEPS PUSH UPS",
+    "videoUrl": "https://youtu.be/Rr43jMaoJ9g",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "187",
+    "name": "TRICEPS KICKBACKS",
+    "videoUrl": "https://youtu.be/f3E7eEq2c6c",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "188",
+    "name": "PIKE PUSH UPS",
+    "videoUrl": "https://youtu.be/Q2koXI9jphI",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "189",
+    "name": "HOVER PUSH UP",
+    "videoUrl": "https://youtu.be/6wdVoBSkU0Y",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "190",
+    "name": "SUPINE PUSH UP",
+    "videoUrl": "https://youtu.be/WwbgPb9Gb48",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "191",
+    "name": "REVERSE SNOW ANGELS",
+    "videoUrl": "https://youtu.be/0qLP2RNKX4A",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "192",
+    "name": "ARM SCISSORS",
+    "videoUrl": "https://youtu.be/pFrJQ-MyL10",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "193",
+    "name": "FLOOR Y RAISES",
+    "videoUrl": "https://youtu.be/lUGi7NilqWA",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "194",
+    "name": "V-UP",
+    "videoUrl": "https://youtu.be/5kvKmRGADlQ",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "195",
+    "name": "HIP HINGE",
+    "videoUrl": "https://youtu.be/VyFDPMOy-eA",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "196",
+    "name": "SPINE LUMBAR TWIST STRETCH RIGHT",
+    "videoUrl": "https://youtu.be/ryNlb_0GmAw",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "197",
+    "name": "SPINE LUMBAR TWIST STRETCH LEFT",
+    "videoUrl": "https://youtu.be/ryNlb_0GmAw",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "198",
+    "name": "COBRA STRETCH",
+    "videoUrl": "https://youtu.be/z21McHHOpAg",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "201",
+    "name": "CALF STRETCH LEFT",
+    "videoUrl": "https://youtu.be/mJOGKTYUAzY",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "202",
+    "name": "CALF STRETCH RIGHT",
+    "videoUrl": "https://youtu.be/mJOGKTYUAzY",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "203",
+    "name": "TRICEPS STRETCH LEFT",
+    "videoUrl": "https://youtu.be/L9IGOcrdcFk",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "204",
+    "name": "TRICEPS STRETCH RIGHT",
+    "videoUrl": "https://youtu.be/L9IGOcrdcFk",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "214",
+    "name": "SINGLE LEG CALF HOP LEFT",
+    "videoUrl": "https://youtu.be/oeVFHaGmVM8",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "215",
+    "name": "SINGLE LEG CALF HOP RIGHT",
+    "videoUrl": "https://youtu.be/oeVFHaGmVM8",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "217",
+    "name": "LEANING STRETCHER RAISES",
+    "videoUrl": "https://youtu.be/qQ-StR-AXzM",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "218",
+    "name": "LEFT QUAD STRETCH WITH WALL",
+    "videoUrl": "https://youtu.be/TfcRyYf7WLg",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "219",
+    "name": "RIGHT QUAD STRETCH WITH WALL",
+    "videoUrl": "https://youtu.be/TfcRyYf7WLg",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "220",
+    "name": "WALL CALF RAISES",
+    "videoUrl": "https://youtu.be/GQa_N7wft7M",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "221",
+    "name": "SUMO SQUAT CALF RAISES WITH WALL",
+    "videoUrl": "https://youtu.be/Hcy81KUTIZ8",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "222",
+    "name": "LYING BUTTERFLY STRETCH",
+    "videoUrl": "https://youtu.be/bzfY0Zr3sUE",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "223",
+    "name": "SUMO SQUAT",
+    "videoUrl": "https://youtu.be/Z2F0bArQH5s",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "224",
+    "name": "CALF RAISE WITH SPLAYED FOOT",
+    "videoUrl": "https://youtu.be/wcMPalYWlpg",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "225",
+    "name": "CALF RAISE WITH PIGEON-TOED",
+    "videoUrl": "https://youtu.be/9p_GzSpzlRk",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "226",
+    "name": "WALL RESISTING SINGLE LEG CALF RAISE LEFT",
+    "videoUrl": "https://youtu.be/795rPzSVOd4",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "227",
+    "name": "WALL RESISTING SINGLE LEG CALF RAISE RIGHT",
+    "videoUrl": "https://youtu.be/795rPzSVOd4",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "232",
+    "name": "CRUNCHES WITH LEGS RAISED",
+    "videoUrl": "https://youtu.be/ulSBgyB8evM",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "236",
+    "name": "REVERSE CRUNCHES WITH LEG RAISED",
+    "videoUrl": "https://youtu.be/dV8ll1vnle0",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "241",
+    "name": "SIT-UP TWIST",
+    "videoUrl": "https://youtu.be/_xzyH6NP_9k",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "258",
+    "name": "ARM CIRCLES CLOCKWISE",
+    "videoUrl": "https://youtu.be/Lha66p0ZXUc",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "259",
+    "name": "KNEE TO CHEST STRETCH LEFT",
+    "videoUrl": "https://youtu.be/bJms9YyjoBI",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "260",
+    "name": "KNEE TO CHEST STRETCH RIGHT",
+    "videoUrl": "https://youtu.be/bJms9YyjoBI",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "261",
+    "name": "STANDING GLUTE KICKBACKS LEFT",
+    "videoUrl": "https://youtu.be/pn2EZjEE_ZU",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "262",
+    "name": "STANDING GLUTE KICKBACKS RIGHT",
+    "videoUrl": "https://youtu.be/pn2EZjEE_ZU",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "263",
+    "name": "SHOULDER GATORS",
+    "videoUrl": "https://youtu.be/JWp8_LGkTR8",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "264",
+    "name": "ALTERNATING HOOKS",
+    "videoUrl": "https://youtu.be/wiyvVpEKOsc",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "265",
+    "name": "MODIFIED PUSH-UP LOW HOLD",
+    "videoUrl": "https://youtu.be/fobiVgoeeZA",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "266",
+    "name": "DOORWAY CURLS LEFT",
+    "videoUrl": "https://youtu.be/134v7cB-1W8",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "267",
+    "name": "DOORWAY CURLS RIGHT",
+    "videoUrl": "https://youtu.be/134v7cB-1W8",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "268",
+    "name": "STANDING BICEPS STRETCH LEFT",
+    "videoUrl": "https://youtu.be/jw8EXo5h0ec",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "269",
+    "name": "STANDING BICEPS STRETCH RIGHT",
+    "videoUrl": "https://youtu.be/jw8EXo5h0ec",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "270",
+    "name": "ARM CURLS CRUNCH LEFT",
+    "videoUrl": "https://youtu.be/pxsOe8MJq68",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "271",
+    "name": "ARM CURLS CRUNCH RIGHT",
+    "videoUrl": "https://youtu.be/pxsOe8MJq68",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "272",
+    "name": "LEG BARBELL CURL LEFT",
+    "videoUrl": "https://youtu.be/3kZS8HVFquk",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "273",
+    "name": "LEG BARBELL CURL RIGHT",
+    "videoUrl": "https://youtu.be/3kZS8HVFquk",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "274",
+    "name": "MILITARY PUSH UPS",
+    "videoUrl": "https://youtu.be/H8LoGZ-ZN48",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "275",
+    "name": "SKIPPING WITHOUT ROPE",
+    "videoUrl": "https://youtu.be/CYGeazlNbU4",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "285",
+    "name": "JUMPING PUSH-UPS",
+    "videoUrl": "https://youtu.be/SdP5TSgRHPc",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "287",
+    "name": "ELBOWS BACK",
+    "videoUrl": "https://youtu.be/rhtadqkrWo0",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "301",
+    "name": "FLOOR SLIDES",
+    "videoUrl": "https://youtu.be/Cft0lko4M4s",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "312",
+    "name": "WINDSHIELD WIPERS",
+    "videoUrl": "https://youtu.be/fNf_IfTAVD0",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "358",
+    "name": "FAST SPIDER LUNGES",
+    "videoUrl": "https://youtu.be/M_OoFzysWak",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "369",
+    "name": "BACK BOW PULLS",
+    "videoUrl": "https://youtu.be/GvyCtKvmaVE",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "378",
+    "name": "PLANK HIP DIPS",
+    "videoUrl": "https://youtu.be/h1_Y3GBUd0M",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "407",
+    "name": "IN & OUTS",
+    "videoUrl": "https://youtu.be/clsucWwp5Oc",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "411",
+    "name": "SWIMMER AND SUPERMAN",
+    "videoUrl": "https://youtu.be/XydDDn_Rngw",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "445",
+    "name": "OBLIQUE CROSSOVER CRUNCH LEFT",
+    "videoUrl": "https://youtu.be/LATqsI5q0hc",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "446",
+    "name": "OBLIQUE CROSSOVER CRUNCH RIGHT",
+    "videoUrl": "https://youtu.be/LATqsI5q0hc",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "451",
+    "name": "MOUNTAIN CLIMBER",
+    "videoUrl": "https://youtu.be/wQq3ybaLZeA",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "454",
+    "name": "KNEE PLANK",
+    "videoUrl": "https://www.youtube.com/watch?v=vMbKA20esfk",
+    "videoDomain": "www.youtube.com"
+  },
+  {
+    "action_id": "476",
+    "name": "PUSH UP HOLD",
+    "videoUrl": "https://www.youtube.com/watch?v=6uqI7pAmdy8",
+    "videoDomain": "www.youtube.com"
+  },
+  {
+    "action_id": "493",
+    "name": "FROG PUMP",
+    "videoUrl": "https://www.youtube.com/watch?v=MQ62r2V7Lw8",
+    "videoDomain": "www.youtube.com"
+  },
+  {
+    "action_id": "495",
+    "name": "SPIDERMAN PLANK",
+    "videoUrl": "https://youtu.be/G8-vocJfWEM",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "541",
+    "name": "LEG IN & OUTS",
+    "videoUrl": "https://youtu.be/V1wZc9RwPW8",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "554",
+    "name": "BACK ARCHES",
+    "videoUrl": "https://www.youtube.com/watch?v=BdfTuxdfIE8&t=1m40s",
+    "videoDomain": "www.youtube.com"
+  },
+  {
+    "action_id": "562",
+    "name": "BENT KNEE SIDE HIP RAISES RIGHT",
+    "videoUrl": "https://youtu.be/y1SrmOgVJ8I",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "563",
+    "name": "BENT KNEE SIDE HIP RAISES LEFT",
+    "videoUrl": "https://youtu.be/y1SrmOgVJ8I",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "565",
+    "name": "STARFISH CRUNCH",
+    "videoUrl": "https://youtu.be/CoTLqNsivCI",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "588",
+    "name": "STANDING OBLIQUE CRUNCHES LEFT",
+    "videoUrl": "https://youtu.be/wD2GY3fUJqQ",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "589",
+    "name": "STANDING OBLIQUE CRUNCHES RIGHT",
+    "videoUrl": "https://youtu.be/wD2GY3fUJqQ",
+    "videoDomain": "youtu.be"
+  },
+  {
+    "action_id": "787",
+    "name": "OFFSET PUSH-UPS",
+    "videoUrl": "https://youtu.be/32yYCbAQo5A",
+    "videoDomain": "youtu.be"
+  }
+]

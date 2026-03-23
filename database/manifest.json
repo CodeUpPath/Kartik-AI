@@ -1,0 +1,26 @@
+{
+  "source_apk": "homeworkout-homeworkouts-noequipment-98-67727585-f10058e504bec7a8b8dddffb5357298a.apk",
+  "output_dir": "database",
+  "counts": {
+    "bundled_images": 1699,
+    "bundled_gifs": 0,
+    "bundled_video_files": 0,
+    "explore_default_decoded_images": 0,
+    "explore_default_raw_candidates": 142,
+    "ui_animation_json_files": 3,
+    "pause_video_asset_files": 8,
+    "exercise_lottie_files": 163,
+    "exercise_lottie_actions": 163,
+    "exercise_video_entries": 163,
+    "unique_video_urls": 131
+  },
+  "video_domains": {
+    "youtu.be": 159,
+    "www.youtube.com": 4
+  },
+  "notes": [
+    "Bundled videos were not found inside the APK.",
+    "Exercise video references point to external YouTube URLs.",
+    "explore_default/images files are stored in raw form when no standard image header is detected."
+  ]
+}
